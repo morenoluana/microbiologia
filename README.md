@@ -2,7 +2,7 @@
 
 Material de estudio de la materia. Docente: Dra. Pamela Bernabeu · JTP: Nadia Cervino.
 
-Fechas: TPs 13/8 · 3/9 · 17/9 · 8/10 — **1er parcial 24/9** · 2do parcial 19/11 · Recuperatorio 26/11 · Final 26/11 (adelantado) / 17/12.
+Fechas: TPs 13/8 · 3/9 · 17/9 · 8/10 — **1er parcial 24/9, 7:45 h** · 2do parcial 19/11 · Recuperatorio 26/11 · Final 26/11 (adelantado) / 17/12.
 
 ## Clases teóricas
 

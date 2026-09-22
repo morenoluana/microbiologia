@@ -281,7 +281,7 @@ footer{border-top:1px solid var(--line);padding-block:22px;color:var(--muted);fo
       <p class="lead">Las 4 clases teóricas explicadas, los 3 TPs, todos los ejercicios de la profe resueltos paso a paso, una autoevaluación con corrección al instante y flashcards para repasar.</p>
       <div class="count" id="countdown">
         <span class="n" id="cd-n">–</span>
-        <div><strong id="cd-t">días para el 1er parcial</strong><div class="small muted">Jueves 24/9 · Clases 1 a 4 (la 4 hasta la diapositiva 52) + TPs 1 a 3</div></div>
+        <div><strong id="cd-t">para el 1er parcial</strong><div class="small muted">Jueves 24/9 a las <strong>7:45</strong> · Clases 1 a 4 (la 4 hasta la diapositiva 52) + TPs 1 a 3</div></div>
       </div>
     </div>
     <div class="dishwrap">
@@ -1182,8 +1182,7 @@ window.addEventListener('hashchange',route);
 document.addEventListener('click',e=>{const a=e.target.closest('[data-quiz]');if(a)pendingQuiz=a.dataset.quiz;const b=e.target.closest('[data-fc]');if(b)pendingFc=b.dataset.fc});
 
 /* ---------------- countdown ---------------- */
-(function(){const exam=new Date(2026,8,24);const now=new Date();const today=new Date(now.getFullYear(),now.getMonth(),now.getDate());const d=Math.round((exam-today)/864e5);
-  if(d>1){$('#cd-n').textContent=d;$('#cd-t').textContent='días para el 1er parcial'}else if(d===1){$('#cd-n').textContent='1';$('#cd-t').textContent='día para el 1er parcial: ¡mañana!'}else if(d===0){$('#cd-n').textContent='HOY';$('#cd-t').textContent='es el 1er parcial. ¡Éxitos!'}else{$('#cd-n').textContent='✓';$('#cd-t').textContent='1er parcial rendido. Próximo: 19/11'}})();
+(function(){const exam=new Date(2026,8,24,7,45);function tick(){const ms=exam-new Date();const N=$('#cd-n'),T=$('#cd-t');if(ms<=0){const after=new Date()-exam;if(after<3*36e5){N.textContent='YA';T.textContent='estás rindiendo. ¡Éxitos!'}else{N.textContent='✓';T.textContent='1er parcial rendido. Próximo: 19/11'}return}const m=Math.floor(ms/6e4),d=Math.floor(m/1440),h=Math.floor(m%1440/60),mi=m%60;N.textContent=d>0?d+'d '+h+'h':h>0?h+'h '+String(mi).padStart(2,'0')+'m':mi+'m';T.textContent=d>=1?'para el 1er parcial (jueves 7:45)':'¡falta muy poco! Jueves 7:45'}tick();setInterval(tick,30000)})();
 
 /* ---------------- petri dish ---------------- */
 (function(){const c=$('#petri'),ctx=c.getContext('2d');const W=720,R=320,cx=360,cy=360;const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
