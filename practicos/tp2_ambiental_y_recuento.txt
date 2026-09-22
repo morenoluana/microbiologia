@@ -1,0 +1,219 @@
+
+--- Página 1 ---
+TRABAJO PRÁCTICO Nro2
+MICROBIOLOGÍA DEL AIRE Y SUPERFICIES
+RECUENTO DE MICROORGANISMOS
+MICROBIOLOGÍA GENERAL
+1
+
+--- Página 2 ---
+MICROBIOLOGÍA DEL AIRE Y SUPERFICIES
+1ra PARTE
+MICROBIOLOGÍA GENERAL
+
+--- Página 3 ---
+1.
+Exponer al aire una placa de petri con PCA y otra con YGC, ambas 
+abiertas, durante 15 minutos
+2. Una vez finalizado el tiempo de exposición, tapar, rotularlas placas:
+•
+Incubar invertidas las placas de Agar PCA 37°C durante 
+48 hs
+•
+Incubar las placas de Agar YGC no invertidas a 25 °C 
+durante 120 hs
+3. Luego del periodo de incubación, contar las colonias obtenidas y 
+expresar el resultado en ufc/15 minutos
+   
+Control microbiológico de aire 
+Método por SEDIMENTACIÓN
+
+--- Página 4 ---
+1.
+Frotar el hisopo sobre una superficie elegida cubriendo un área 
+predeterminada:
+•
+Si las superficies son secas humedecer el hisopo en Agua peptonada 
+al 0,1%
+2. Pasar el hisopo recorriendo la superficie de las placas con medio de cultivo 
+(1ro. Agar PCA y 2do. Agar YGC) en su totalidad, comenzando en un extremo 
+y finalizando en el otro.
+•
+Incubar las placas de agar PCA a 37 °C durante 48 hs
+•
+Incubar las placas de agar YGC no invertidas a 25 °C durante 120 hs
+3. Luego del periodo de incubación: observar, caracterizar y anotar el tipo de 
+colonias formadas en los dos medios de cultivo   
+Control microbiológico de superficies 
+Método de HISOPADO
+
+--- Página 5 ---
+1.
+Presionar las manos sobre las placas con medio de cultivo (Agar Endo y Agar 
+Baird Parker), ¿clasificación de estos medios?. Realizar el mismo 
+procedimiento con manos lavadas con un antiséptico y secadas con papel 
+descartable:
+•
+1ro. BP 
+•
+2do. ENDO
+•
+Mitad de placa sin tocar superficie (manos limpias); mitad 
+de placa después de tocar superficie
+2. Incubar invertidas las placas 37 °C durante 48 hs
+3. Luego del periodo de incubación, observar, caracterizar y anotar el tipo de 
+colonias formadas en los dos medios de cultivo
+Control microbiológico de superficies 
+Método de IMPRESIÓN
+
+--- Página 6 ---
+RECUENTO DE MICROORGANISMOS
+2da PARTE
+
+--- Página 7 ---
+Preparación de las diluciones
+▪Realizar diluciones seriadas de la muestra en tubos con 9 ml 
+de agua de peptona al 0,1 %
+▪ Para la muestra de leche, realizar 4 diluciones decimales 
+seriadas (10^-1 a 10^-4)
+
+--- Página 8 ---
+Recuento de bacterias
+Siembra en PROFUNDIDAD
+1.
+Fundir el Agar PCA y templarlo a 45ºC ± 1ºC en baño 
+termostático. La temperatura del medio de cultivo se debe 
+controlar cuidadosamente a fin de evitar la lesión o muerte 
+de microorganismos una vez que el agar sea vertido sobre 
+la muestra
+2. Tomar placas estériles, rotularlas y transferirles 1 ml de las 
+diluciones indicadas, vamos a usar dos diluciones por 
+duplicado (4 placas)
+3. Verter cuidadosamente 15 ml de PCA fundido y templado 
+en las placas de Petri. Mezclar cuidadosamente la dilución 
+con el medio fundido por medio de movimientos 
+uniformes de rotación hacia ambos lados y en cruz. 
+Permitir solidificar con la placa abierta cercana al mechero
+4. Una vez que el agar haya solidificado, invertir las placas e 
+incubarlas en estufa a 30ºC ±1ºC durante 72 hs
+.
+
+--- Página 9 ---
+Recuento de bacterias
+Siembra en SUPERFICIE
+1.
+Se coloca 0,1 ml de la dilución apropiada sobre la superficie 
+del medio, previamente solidificado (placa Agar PCA), y se 
+lo extiende uniformemente con una varilla de vidrio 
+doblada y estéril (espátula de Drigalsky). Dos diluciones 
+por duplicado (4 placas)
+2. Invertir las placas e incubarlas en estufa a 30ºC ±1ºC durante 
+72 hs
+
+--- Página 10 ---
+Recuento de bacterias coliformes 
+NMP
+1.
+Tomar 1 ml de la muestra de agua, agitada previamente para su 
+homogeneización y efectuar 3 diluciones decimales seriadas (10^-
+1,10^-2 y 10^-3)
+2. Sembrar 1 ml de la dilución 10^-1 en cada uno de los 3 tubos con 
+Caldo Lactosa Bilis Verde Brillante (LBVB)de la serie 1; sembrar 1 ml 
+de la dilución10^-2 en cada uno de los 3 tubos con LBVB de la serie 2; 
+y 1 ml de la dilución 10^-3 en cada uno de los 3tubos con LBVB de la 
+serie 3. Controlar que cada tubo contenga una campanita de Durham 
+sin gas
+3. Incubar a 37 ºC durante 48 hs
+
+--- Página 11 ---
+INFORME
+Parte 1
+➢SEDIMENTACIÓN: 
+▪Registrar, con la placa cerrada, morfología de las colonias. 
+Contarlas colonias obtenidas y expresar el resultado en 
+ufc/15 minutos
+▪ Indicar si existen diferencias en el tipo de colonias 
+formadas según el ambiente muestreado y el medio de 
+cultivo empleado. Foto de cada placa, con su leyenda 
+correspondiente
+▪Discusión de lo observado
+
+--- Página 12 ---
+INFORME
+Parte 1
+➢HISOPADO: 
+▪Registrar, con la placa cerrada, morfología de las colonias
+▪Indicar si existen diferencias en el tipo de colonias 
+formadas según la superficie muestreada y el medio de 
+cultivo empleado. Foto de cada placa, con su leyenda 
+correspondiente
+▪Discusión de lo observado
+
+--- Página 13 ---
+INFORME
+Parte 1
+➢IMPRESIÓN: 
+▪Registrar, con la placa cerrada, morfología de las colonias
+▪Foto de cada placa, con su leyenda correspondiente
+▪Discusión de lo observado. Acá están usando medios que 
+no evaluamos en el TP 1; es importante que incluyan 
+cuáles microorganismos se espera que crezcan en cada 
+uno y por qué
+
+--- Página 14 ---
+INFORME
+Parte 2
+➢PROFUNDIDAD:
+▪Recuento en UFC/mL (30<X<300).
+X<30: No se cuenta.
+X>300: Se cuenta 1/2 o 1/4 de la placa
+▪Foto de cada placa, con su leyenda correspondiente
+▪Discusión de lo observado
+
+--- Página 15 ---
+INFORME
+Parte 2
+➢SUPERFICIE:
+▪Recuento en UFC/mL (30<X<300).
+X<30: No se cuenta.
+X>300: Se cuenta 1/2 o 1/4 de la placa
+▪Foto de cada placa, con su leyenda correspondiente
+▪Discusión de lo observado
+
+--- Página 16 ---
+▪
+promedio Nº de colonias: es el promedio de las colonias 
+contadas en cada placa de la dilución seleccionada porque 
+sus las placas contenían un número de colonias 
+considerado contable
+▪
+ factor de dilución: es la inversa de la dilución 
+seleccionada porque sus placas fueron contables. Por 
+ejemplo, si se cuentan las colonias de la dilución 10-2, su 
+inversa es 1/10-2 o sea 102. 
+▪
+factor volumen: es la inversa del volumen sembrado en 
+cada placa. En siembra en profundidad, como se siembra 1 
+ml en cada placa, el factor dilución es 1/1 o sea 1. 
+
+--- Página 17 ---
+INFORME
+Parte 2
+➢NMP:
+▪Reportar los tubos positivos(tubos con gas) y negativos 
+en la planilla de registro correspondiente
+▪Con la combinación de tubos positivos de cada dilución, 
+hallar el Número Más Probable y reportar en NMP/mL
+▪Foto 
+de 
+cada 
+set 
+de 
+tubos, 
+con 
+su 
+leyenda 
+correspondiente
+▪Discusión de lo obtenido
+
+--- Página 18 ---

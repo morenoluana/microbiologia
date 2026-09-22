@@ -1,0 +1,152 @@
+
+--- Página 1 ---
+TRABAJO PRÁCTICO Nro3
+TÈCNICAS DE SIEMBRA
+MICROSCOPÍA Y TINCIONES
+MICROBIOLOGÍA GENERAL
+1
+
+--- Página 2 ---
+TÈCNICAS DE SIEMBRA
+1ra PARTE
+
+--- Página 3 ---
+SIEMBRA EN MEDIO DE CULTIVO LÍQUIDO
+Técnicas de siembra
+1.
+A partir de una placa de agar Baird Parker tomar una colonia con una cepa 
+de S. aureus en estudio y sembrar en medio liquido caldo BHI
+2. Incubar a 37 °C durante 24 h
+3. Finalizado el tiempo de incubación, observar el desarrollo obtenido y utilizar 
+el cultivo para realizar la prueba de coagulasa indicada en TP 6 
+
+--- Página 4 ---
+SIEMBRA EN AGAR INCLINADO
+Técnicas de siembra
+1.
+A partir de una placa de agar Baird Parker tomar una 
+colonia de una cepa de S. aureus en estudio y sembrar 
+en agar nutritivo en pico de flauta 
+2. A partir de una placa de agar Endo tomar una colonia 
+de una cepa de E. coli en estudio y sembrar en agar 
+nutritivo en pico de flauta 
+3. Incubar ambos tubos a 37 °C durante 24 h 
+4. Finalizado el tiempo de incubación, observar el 
+desarrollo obtenido y utilizar el cultivo para realizar la 
+prueba de catalasa indicada en TP 6
+
+--- Página 5 ---
+MÉTODO DE SIEMBRA EN ESTRÍA
+Técnica de aislamiento por agotamiento
+1. Introducir un ansa estéril en un cultivo a partir del cual se desea aislar un microorganismo. 
+2. Apoyar en la mesada la placa de Petri invertida con el medio de cultivo. Con una mano abrir la 
+placa, sosteniendo la base con el medio de cultivo mirando la llama del mechero y dejar la tapa 
+sobre la mesa
+3. Apoyar el ansa con el cultivo sobre el borde externo de la superficie del medio de cultivo y con 
+movimientos suaves realizar estrías en zigzag juntas en un primer cuarto de la placa 
+4. Esterilizar el ansa, enfriar en un costado (sin siembra). Tocar la última porción sembrada y 
+continuar realizando estrías en zigzag juntas, cubriendo otro cuarto de la placa. Repetir de igual 
+forma para el tercer cuadrante y el último cuadrante
+5. Tapar la placa de Petri
+6. Esterilizar el ansa contaminada 
+7. Anotar los datos en la base de la placa
+8. Incubar las placas de Petri durante los tiempos y temperaturas apropiados para el 
+microorganismo que se desea aislar
+
+--- Página 6 ---
+MÉTODO DE SIEMBRA EN ESTRÍA
+Técnica de aislamiento por agotamiento
+1. En la superficie externa de la base de la placa de Petri anotar la identificación de la 
+muestra, grupo, turno y fecha. 
+2. Realizar aislamiento por agotamiento a partir de cultivo mixto provisto por la 
+cátedra en agar Endo y agar Baird Parker. 
+3. Incubar a 37 °C durante 48 h. 
+4. Finalizado el tiempo de incubación, observar las colonias obtenidas y describir la 
+morfología obtenida en cada uno de los medios de cultivo. 
+
+--- Página 7 ---
+MICROSCOPÍA Y TINCIONES
+2da PARTE
+
+--- Página 8 ---
+Preparación del extendido y fijación
+➢Utilizar un portaobjeto limpio y desengrasado
+➢Esterilizar el ansa, enfriar y tomar una pequeña porción 
+del cultivo bacteriano:
+▪
+Si se trata de un cultivo en medio líquido, directamente 
+colocar una gota de la suspensión bacteriana sobre el 
+portaobjeto y dispersar con el ansa sobre el mismo
+▪
+Si es un cultivo en medio sólido, se coloca una gota de 
+solución fisiológica y en ella se dispersa el cultivo hasta 
+obtener una suspensión débilmente opalescente
+➢Se secan los extendidos en columna de aire caliente que 
+provee la llama del mechero
+➢Fijación: pasar tres veces, del lado contrario al 
+extendido, sobre la llama del mechero
+
+--- Página 9 ---
+TINCIÓN DE GRAM
+Tinciones diferenciales
+1. Sumergir el extendido fijado en el colorante Cristal violeta y dejar actuar 20 
+segundos
+2. Transcurrido el tiempo lavar el portaobjetos suavemente con agua
+3. Cubrir con Lugol durante 30 segundos
+4. Transcurrido el tiempo, lavar el portaobjetos suavemente con agua
+5. Cubrir con decolorante (alcohol-acetona) durante 10 segundos
+6. Transcurrido el tiempo, lavar el portaobjetos suavemente con agua
+7. Sumergir en Safranina y dejar actuar 20 segundos 
+8. Lavar suavemente con agua
+9. Dejar secar el extendido a temperatura ambiente
+10. Observar al microscopio con objetivo de inmersión (100X)
+
+--- Página 10 ---
+TINCIÓN DE GRAM
+Tinciones diferenciales
+
+--- Página 11 ---
+TINCIÓN DE GRAM
+Tinciones diferenciales
+Bacterias Gram (+) se observan color violeta y las Gram (-) color rosado
+
+--- Página 12 ---
+TINCIÓN DE ENDOSPORAS BACTERIANAS
+(Schaeffer-Fulton)
+Tinciones especiales
+1. Cubrir muy bien con Verde de malaquita el extendido fijado
+2. Calentar debajo del portaobjetos con mechero hasta la aparición de 
+vapores blancos durante 5 minutos. No hervir el colorante ni permitir 
+que se seque
+3. Transcurrido el tiempo, lavar el portaobjetos suavemente con agua 
+corriente 
+4. Cubrir con el colorante Safranina y dejar actuar 30 segundos
+5. Lavar suavemente con agua corriente
+6. Dejar secar el extendido a temperatura ambiente
+7. Observar al microscopio con objetivo de inmersión (100X)
+
+--- Página 13 ---
+TINCIÓN DE ENDOSPORAS BACTERIANAS
+Tinciones especiales
+
+--- Página 14 ---
+TINCIÓN DE ENDOSPORAS BACTERIANAS
+Tinciones especiales
+Esporas bacterianas se observan color verde y el resto de la célula rosado
+
+--- Página 15 ---
+INFORME
+Parte 2
+Parte 1
+▪
+Tinciones
+Gram y de endoesporas: foto de cada tinción, 
+con su leyenda correspondiente (indicando el 
+aumento total, objetivo*ocular)
+Discusión de lo observado
+▪
+Siembra por agotamiento: 
+Foto de cada placa, con su leyenda 
+correspondiente
+Discusión de lo observado, utilidad de 
+esta siembra

@@ -1,0 +1,178 @@
+
+--- Página 1 ---
+TRABAJO PRÁCTICO Nro1
+MEDIOS DE CULTIVO Y ESTERILIZACIÓN
+MICROBIOLOGÍA GENERAL
+1
+
+--- Página 2 ---
+MEDIOS DE CULTIVO
+Solución nutritiva que se utiliza para favorecer y sostener el crecimiento y la 
+diferenciación de los microorganismos.
+ Contienen nutrientes, fuentes de energía, factores que promueven el 
+crecimiento, minerales, metales, sales buffer y agentes gelificantes (en el 
+caso de los medios sólidos)
+Gran diversidad de medios de cultivo directamente relacionada con la 
+enorme diversidad metabólica de los microorganismos. No todos tienen 
+los mismos requerimientos nutricionales ni toleran las mismas 
+condiciones ambientales
+
+--- Página 3 ---
+MEDIOS DE CULTIVO
+▪Clasificación de Medios de Cultivo: según su COMPOSICIÓN QUÍMICA
+MEDIOS DEFINIDOS
+Se preparan añadiendo 
+cantidades precisas de productos 
+orgánicos o inorgánicos puros a 
+agua destilada
+ Se conoce la composición 
+exacta (tanto en sentido 
+cualitativo como cuantitativo)
+MEDIOS COMPLEJOS
+Constituidos por sustancias 
+complejas de origen animal o 
+vegetal, complementadas por 
+la adición de minerales y otras 
+sustancias
+ 
+
+--- Página 4 ---
+MEDIOS DE CULTIVO
+▪Clasificación de Medios de Cultivo: según su FUNCIÓN
+GENERALES
+Tienen los nutrientes necesarios 
+para el crecimiento de la mayoría 
+de los microorganismos no 
+exigentes
+Utilizados principalmente para 
+realizar recuentos microbianos o 
+para conservación de 
+microorganismos 
+SELECTIVOS
+Permiten el crecimiento 
+de un tipo de 
+microorganismos 
+determinado, inhibiendo 
+el desarrollo de los demás
+DIFERENCIALES
+Contienen indicadores de 
+productos derivados de la 
+actividad microbiana que 
+permiten diferenciar colonias 
+de microorganismos específicos
+ 
+ENRIQUECIDOS
+Empieza como medio complejo y 
+después se va complementando 
+consustancias de alto poder 
+nutritivo como suero o sangre
+Se utiliza para el cultivo de 
+microorganismos 
+nutricionalmente exigentes, 
+muchos de los cuales son 
+patógenos 
+En el medio de cultivo EMB agar (Eosin 
+Methylene Blue ), podemos distinguir las 
+bacterias E. coli que producen un brillo 
+verdoso metálico  y las bacterias E. 
+aerogens que son rosadas
+
+--- Página 5 ---
+MEDIOS DE CULTIVO
+▪Clasificación de Medios de Cultivo: según su CONSISTENCIA
+LÍQUIDOS
+Componentes nutritivos 
+en solución acuosa 
+SEMISÓLIDOS
+Con agregado de un 
+solidificante al 0,2%
+SÓLIDOS
+Con agregado de un 
+solidificante al 1,5-2%
+ 
+
+--- Página 6 ---
+MEDIOS DE CULTIVO
+▪PREPARACIÓN:
+1. PESAR
+2. HIDRATAR/DISOLVER/FUNDIR
+4. ENVASAR/ACONDICIONAR
+5. ESTERILIZAR
+3. MEDIR PH
+6.PLAQUEAR/ALMACENAR/USAR
+
+--- Página 7 ---
+ESTERILIZACIÓN
+Tratamiento que produce la 
+eliminación de toda forma 
+de vida contenida en los 
+materiales a los que se 
+aplica (pérdida de 
+viabilidad y capacidad de 
+multiplicarse) 
+
+--- Página 8 ---
+ESTERILIZACIÓN
+➢Existen varios métodos prácticos de uso dependiendo de la conveniencia y de la naturaleza del material 
+a esterilizar:
+MÉTODOS FÍSICOS                                  MÉTODOS QUÍMICOS
+CALOR 
+▪húmedo 
+▪seco 
+RADIACIÓN 
+▪no ionizante (UV, 260nm) 
+▪ionizante (Gamma, e-)
+FILTRACIÓN 
+LÍQUIDO 
+▪formaldehido/formol 
+▪glutaraldehido 
+GAS 
+▪óxido de etileno
+
+--- Página 9 ---
+ESTERILIZACIÓN
+Autoclave
+▪Agente esterilizante: Vapor de agua a presión (121ºC - 15minutos - 1 atm 
+sobre la presión)
+▪Podemos esterilizar: Medios de Cultivo; Soluciones Salinas; Buffers; 
+Instrumentos resistentes al calor; Descontaminación de materiales
+Uso del autoclave: partes y 
+fundamento del equipo:
+https://drive.google.com/file/d/1f1
+KTISXFnksKd-
+se4Pg4B9SGo9o6yPgB/view
+Uso del autoclave: en funcionamiento
+https://drive.google.com/file/d/18LAGpM
+SGMV7v6lfr25Ma4wlGqa9mN1KE/view
+
+--- Página 10 ---
+ESTERILIZACIÓN
+➢Controles de esterilización:
+Son importantes para comprobar el funcionamiento correcto de cualquier método de esterilización 
+Para certificar la calidad del proceso, y el resultado de la esterilización, se emplean controles de 
+esterilización de diversos tipos:
+FÍSICOS 
+QUÍMICOS 
+BIOLÓGICOS 
+Uso del autoclave: controles de esterilización:
+https://drive.google.com/file/d/1llVgMrSDAjEdppU
+RjP6P3vvsITaP6rft/view
+(Bacillus stearothermophilus)
+
+--- Página 11 ---
+OBJETIVO DEL TP
+➢PREPARAR Y ESTERILIZAR LOS MEDIOS DE CULTIVO QUE UTILIZARÁN EN EL TP2 
+Plate Count Agar (PCA) 
+Yeast extract – Glucose – Chloramphenicol Agar (YGC) 
+Caldo lactosa bilis verde brillante (LBVB)
+
+--- Página 12 ---
+INFORME
+➢Medios de cultivo: PCA; YGC; LBVB:
+a. Indicar la función de cada componente del medio de cultivo 
+b. Explicar cómo se clasifican estos medios según su composición química, consistencia y función. 
+c. ¿cuáles son los microorganismos que crecerán en estos medio de cultivo? ¿por qué? 
+➢Esterilización:
+a. Definir y describir las etapas del proceso de esterilización de un medio de cultivo en autoclave.
+b. Explicar los tipos de controles que se pueden utilizar en un ciclo de esterilización por calor
+húmedo en autoclave, citando un ejemplo de cada uno con resultado positivo y negativo

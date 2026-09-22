@@ -1,0 +1,39 @@
+
+--- Página 1 ---
+Ejercicios
+Crecimiento microbiano
+
+--- Página 2 ---
+Ejercicio 1
+Un cultivo de E. coli pasa de 1,0×106 a 8,0×106 células/ml en 
+90 minutos.
+– ¿Cuántas generaciones ocurrieron?
+– Calcula el tiempo de duplicación (g).
+
+--- Página 3 ---
+Un cultivo de Bacillus subtilis comienza con 0,05 g/L de 
+biomasa.
+Su tiempo de duplicación es de 40 minutos.
+El cultivo se mantiene en fase exponencial durante 4 horas.
+– ¿Cuántas generaciones ocurrieron en ese intervalo?
+– Calcula la biomasa final (g/L).
+Ejercicio 2
+
+--- Página 4 ---
+Un cultivo de Saccharomyces cerevisiae parte de 0,2 g/L de 
+biomasa y duplica su población cada 30 minutos.
+- ¿Cuál será la biomasa después de 2 horas?
+- ¿Cuánto tiempo debe pasar para que alcance 6,4 g/L?
+Ejercicio 3
+
+--- Página 5 ---
+Dos cepas de Pseudomonas presentan distintos tiempos de 
+duplicación:
+Cepa A: g = 25 min
+Cepa B: g = 40 min
+Ambas parten con 0,1 g/L de biomasa y crecen en fase 
+exponencial durante 3 horas.
+– Calcula la biomasa final de cada cepa.
+– ¿Cuál alcanzó mayor biomasa?
+– ¿Cuántas generaciones completó cada una?
+Ejercicio 4
