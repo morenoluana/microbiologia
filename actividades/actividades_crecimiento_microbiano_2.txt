@@ -1,0 +1,95 @@
+
+--- Página 1 ---
+Actividades: Crecimiento microbiano 
+ 
+A. Cuestionario 
+1. ¿Qué se entiende por crecimiento microbiano? ¿Por qué crecimiento y aumento 
+del tamaño celular no son necesariamente lo mismo?  
+2. ¿Qué diferencia existe entre nutrientes y factores de crecimiento?  
+3. Clasificar los siguientes elementos según su función nutricional: C, N, P, S, Fe, 
+Mg, K, vitaminas.  
+4. ¿Cuál es la diferencia entre un microorganismo autótrofo y uno heterótrofo?  
+5. ¿Qué diferencia existe entre microorganismos fotótrofos y quimiótrofos?  
+6. ¿Por qué el oxígeno puede resultar indispensable para algunos microorganismos 
+y tóxico para otros?  
+7. Diferenciar: aerobio estricto; anaerobio estricto; anaerobio facultativo; 
+microaerófilo, aerotolerante. 
+8. ¿Qué relación existe entre temperatura y velocidad de crecimiento microbiano?  
+9. Definir temperatura mínima, óptima y máxima de crecimiento.  
+10. ¿Por qué una disminución de la actividad de agua puede inhibir el crecimiento 
+microbiano? 
+ 
+B. ¿Qué microorganismo podría vivir en estos ambientes? 
+Ambiente 
+Condiciones 
+¿Qué microorganismo 
+esperarías? 
+Interior de un 
+refrigerador 
+4°C, abundante materia 
+orgánica 
+Compostaje 
+60°C, materia orgánica 
+abundante 
+Agua de mar 
+Alta concentración de 
+sales 
+Intestino humano 
+37°C, poco O2 
+Superficie de un 
+alimento seco 
+Baja actividad de agua 
+Sedimento profundo 
+Ausencia de O2 
+ 
+ 
+
+--- Página 2 ---
+C. Diseñar el experimento 
+Un microorganismo crece adecuadamente a 30°C y pH 7. Se sospecha que necesita 
+NaCl para crecer, pero se desconoce la concentración óptima. ¿Qué experimento 
+realizarías para confirmarlo? ¿Qué controles se deberían incluir? ¿Cómo se mediría el 
+crecimiento? ¿Qué resultado permitiría determinar la concentración óptima? 
+ 
+D. Curva de crecimiento 
+1. Graficá una curva de crecimiento de un microorganismo.  
+2. Explicá qué ocurre con las células en cada etapa.  
+3. Indicar en qué fase ocurre la mayor velocidad de división.  
+4. ¿En qué fase esperarían mayor actividad metabólica?  
+5. ¿En qué fase podrían comenzar a agotarse nutrientes? 
+6. Si una bacteria tiene un tiempo de generación de 30 minutos y se inicia un cultivo con 
+106 células, ¿cuántas células habría después de 3 horas, suponiendo crecimiento 
+exponencial ideal? 
+ 
+E. ¿Verdadero o falso? 
+1. Todos los microorganismos necesitan oxígeno para crecer.  
+2. El crecimiento microbiano implica aumento del tamaño de cada célula.  
+3. Un microorganismo anaerobio facultativo solamente puede crecer en ausencia de 
+oxígeno.  
+4. La temperatura óptima es aquella a la cual el microorganismo presenta la mayor 
+velocidad de crecimiento.  
+5. Todos los microorganismos tienen los mismos requerimientos nutricionales.  
+6. Una elevada concentración de sal puede inhibir el crecimiento de microorganismos no 
+adaptados.  
+7. La fase exponencial se caracteriza por una velocidad de división aproximadamente 
+constante.  
+8. Un microorganismo termófilo necesariamente puede crecer a temperatura ambiente.  
+9. La disponibilidad de agua es un factor ambiental que puede limitar el crecimiento 
+microbiano.  
+10. 
+Un medio de cultivo debe proporcionar todos los nutrientes necesarios para el 
+crecimiento del microorganismo que se desea cultivar. 
+ 
+
+--- Página 3 ---
+F. Ejercicio integrador 
+Se encuentra un microorganismo en una muestra de suelo de una zona salina. En el 
+laboratorio se observa que crece mejor a 30°C, pH 7,5 y 4% de NaCl. No crece en 
+condiciones estrictamente anaeróbicas y presenta mayor crecimiento cuando hay oxígeno 
+disponible. 
+1. ¿Qué características ambientales presenta este microorganismo? 
+2. ¿Sería razonable considerarlo halófilo? ¿Por qué? 
+3. ¿Qué relación tiene el oxígeno con su metabolismo? 
+4. ¿Qué condiciones utilizarían para cultivarlo en el laboratorio? 
+5. ¿Qué ocurriría si se incubara a 60 °C? 
+6. ¿Qué ocurriría si se utilizara un medio sin fuente de nitrógeno? 

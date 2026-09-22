@@ -1,0 +1,29 @@
+
+--- Página 1 ---
+Autoevaluación 
+ 
+1. Explicar el proceso de fisión binaria. 
+2. Explicar la diferencia entre velocidad de crecimiento y tiempo de 
+generación. ¿Como se calcula cada uno de estos parámetros? 
+3. Un cultivo en un medio rico se inicial con 4 células/ml,  tiene un tiempo de 
+latencia de 1 hora y un tiempo de generación de 20 minutos. ¿Cuántas 
+células habrá en 1 litro de ese cultivo tras 1 hora de incubación? 
+4. Calcula el tiempo de generación en un experimento de crecimiento en el 
+que se inoculó con 5x106 células/ml de E. coli y después de una hora de 
+fase de adaptación, crece exponencialmente durante 5 horas, siendo 
+entonces la población de 5,4x109 células/ml.  
+5. En una curva de crecimiento de E. coli en cultivo batch: a- indicar en qué 
+fase se dividen las células de manera regular; b- ¿Cuándo puede un cultivo 
+no presentar fase de latencia?; c- ¿Por qué entran las células en fase 
+estacionaria?  
+6. Explicar las diferencias entre un sistema cerrado de cultivo (batch) y un 
+cultivo en quimiostato.  
+7. ¿Qué son las temperaturas cardinales? ¿Cuáles son las temperaturas 
+cardinales de E. coli? ¿Cómo se clasifica por su temperatura óptima de 
+crecimiento? 
+8. Explicar las diferencias entre psicrófilo – psicrótrofo – hipertermófilo. 
+9. Explicar las adaptaciones a altas y bajas temperaturas de los 
+microorganismos hipertermófilos y psicrófilos.  
+10. ¿Qué son los tampones y por qué se usan? 
+11. ¿Qué es un soluto compatible? Mencionar ejemplos.  
+ 
