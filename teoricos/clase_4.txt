@@ -1,0 +1,751 @@
+
+--- Diapositiva 1 ---
+NUTRICIÓN  y METABOLISMO 
+MICROBIANO
+MICROBIOLOGIA 
+GENERAL
+
+--- Diapositiva 2 ---
+Nutrición y metabolismo microbiano
+Contenidos:
+1. Generalidades
+2. Reacciones REDOX
+3. Transporte de nutrientes
+4. Catabolismo
+5. Obtención de energía
+6. Anabolismo
+
+--- Diapositiva 3 ---
+Metabolismo microbiano
+Conjunto de reacciones químicas llevadas a cabo en las células
+FASES DEL METABOLISMO
+ANABOLISMO
+CATABOLISMO
+Degradación de
+compuestos 
+(“desasimilación”)
+Biosíntesis de 
+compuestos 
+químicos 
+(“asimilación”)
+Reacciones 
+químicas que 
+consumen 
+energía
+Reacciones 
+químicas que 
+liberan 
+energía
+
+--- Diapositiva 4 ---
+Conceptos bioquímicos
+Energía de activación
+Cantidad de energía necesaria para llevar todas las moléculas de una reacción 
+química a un estado reactivo
+Catalizador
+Sustancia que disminuye la energía de activación de una reacción para 
+aumentar su velocidad. No se consume ni se modifica durante la reacción.
+Enzimas
+Catalizador biológico, proteínas de alta especificidad (sitio activo –unión 
+sustrato). 
+Cofactores (no proteica): grupos prostéticos (Fe) – coenzima
+REACCIONES QUÍMICAS Y ENERGÍA PRODUCIDA 
+❖
+Reacciones Óxido–Reducción  (REDOX)     
+❖
+Dadores y Aceptores de e-
+❖
+Transportadores de electrones: NAD-NADP    
+❖
+Compuestos de Alta Energía - Almacenamiento
+
+--- Diapositiva 5 ---
+REACCIÓN REDOX
+H2+ ½O2  -------> H2O
+Hemirreacción dadora de e-              Hemirreacción receptora de e-
+      H2 ----> 2e-+2H+                            ½O2 +2e- ----> O2-
+2H++ O2- -------> H2O
+(oxidación del H2) 
+(reducción del O2)
+GANANCIA DE 
+UN ELECTRÓN
+PÉRDIDA DE 
+UN ELECTRÓN
+
+--- Diapositiva 6 ---
+REACCIÓN REDOX
+Las parejas OR se ordenan desde las mas reductoras 
+(potencial negativo) hasta las más oxidantes (potencial 
+positivo). Los electrones son donados desde la parte 
+superior y pueden ser “tomados” por aceptores a distintos 
+niveles. Cuanto más caigan antes de ser aceptados mayor 
+en la diferencia en el potencial de reducción entre dador y 
+receptor y se libera más energía.
+POTENCIAL DE REDUCCIÓN
+
+--- Diapositiva 7 ---
+REACCIONES REDOX
+
+--- Diapositiva 8 ---
+Transportadores de Electrones Coenzima 
+Nicotinamida Adenina Di nucleótido (NAD)
+Otros transportadores de e-
+FAD Flavina adenina dinucleótido
+FMN Flavin mononucleótido
+
+--- Diapositiva 9 ---
+Transportadores de Electrones Coenzima 
+Nicotinamida Adenina Di nucleótido (NAD)
+
+--- Diapositiva 10 ---
+Compuestos de alta energía
+
+--- Diapositiva 11 ---
+Generación de ATP: tipos de fosforilación
+ADP + P    
+ATP
+• Fosforilación acoplada al (a nivel de) sustrato:
+síntesis de ATP acoplada a una reacción exergónica sin 
+intervención de la enzima ATP-sintasa.
+• Fosforilación oxidativa
+es el proceso por el que se forma ATP como resultado de la 
+transferencia de electrones desde el NADH o del FADH2 al O2 a 
+través de una serie de transportadores de electrones.
+• Fotofosforilación 
+Proceso por el cual el ADP se fosforila a ATP, empleando la energía 
+de transferencia de los electrones, activada por la luz. Es propia de 
+los organismos fotosintéticos.
+
+--- Diapositiva 12 ---
+Fosforilación acoplada al (a nivel de) sustrato
+El grupo P se 
+transfiere desde un 
+compuesto 
+metabólico 
+intermedio fosforilado 
+al ADP
+Caso especial
+
+--- Diapositiva 13 ---
+Fosforilación oxidativa        Fotofosforilación 
+✓Cadena de transporte de electrones (NAD)
+✓Quimioósmosis (ATPasa)
+✓Membranas
+
+--- Diapositiva 14 ---
+La célula microbiana utiliza la energía química para:
+✓Síntesis de  grandes 
+moléculas a partir de otras 
+más pequeñas.
+✓Transporte de sustancias hacia la célula 
+microbiana, y organización en su interior. 
+✓Excreción de las sustancias de desecho de la 
+célula microbiana –Secreción de proteínas.
+✓Trabajo mecánico celular (movimiento; 
+división).
+
+--- Diapositiva 15 ---
+Clasificación de los microorganismos según  
+fuentes de Energía y Carbono utilizadas
+
+--- Diapositiva 16 ---
+Obtención de la energía celular
+La célula microbiana obtiene su energía de dos maneras: 
+✓Degradando (oxidando) compuestos químicos 
+(reducidos) y liberando su energía  (quimiótrofas)
+ Quimiorganótrofas: oxida compuestos orgánicos
+Quimiolitótrofas: oxida compuestos inorgánicos
+✓Almacenando la energía lumínica mediante el proceso 
+de fotosíntesis (fotótrofas)
+
+--- Diapositiva 17 ---
+Nutrición
+Proceso por el cual los seres vivos toman del medio donde habitan las 
+sustancias químicas (nutrientes) que necesitan para crecer y son utilizadas 
+para actividades celulares metabólicas (fines energéticos y  biosintéticos)
+Membrana plasmática
+
+--- Diapositiva 18 ---
+.
+TRANSPORTE DE 
+NUTRIENTES
+
+--- Diapositiva 19 ---
+Transporte de Nutrientes
+Transporte Pasivo (TP): no se consume energía
+✓Difusión simple 
+✓Difusión facilitada
+Transporte Activo (TA): se consume energía
+✓Transporte simple o cotransporte
+✓ABC-Transporter
+✓Traslocación en grupo
+
+--- Diapositiva 20 ---
+Transporte pasivo
+Difusión simple
+✓Movimiento de solutos desde zonas de alta concentración a zonas de baja 
+concentración
+✓Transporte de pequeñas moléculas no cargadas (H2O, O2, CO2); inespecífico
+Difusión facilitada
+✓Transporte de moléculas polares y 
+      iones a través de membrana por el 
+       gradiente de concentración
+✓Proteínas Transportadoras 
+      (permeasas) > velocidad
+✓Glicerol
+
+--- Diapositiva 21 ---
+Transporte activo
+✓Transporte de moléculas 
+a través de la membrana 
+contra gradiente de 
+concentración
+             (baja         alta)
+✓Requiere energía (ATP o 
+gradientes de iones) y 
+proteínas de transporte
+✓Transporte de azúcares, 
+AA, ácidos orgánicos, 
+fosfatos y iones metálicos
+✓Sistema de “Translocación 
+en grupo”:  transporta y 
+modifica azúcares 
+específicos
+COTRANSPORTE
+GRUPO DE
+TRANSLOCACIÓN
+SISTEMA ABC
+TRANSPORTER
+
+--- Diapositiva 22 ---
+Sistemas de transporte activo en bacterias
+Sistemas de Cotransporte
+Transporte de una sustancia 
+desde un área de baja a      
+alta concentración mientras 
+otra sustancia es 
+transportada 
+simultáneamente desde 
+alta a baja concentración. 
+Ejemplo: lactosa permeasa 
+en E. coli: 
+Mientras iones de hidrógeno 
+se mueven desde alta 
+concentración afuera a baja 
+concentración adentro, la 
+lactosa se mueve desde baja 
+concentración externa a alta                        
+concentración interna.
+
+--- Diapositiva 23 ---
+Sistemas de transporte activo en bacterias
+ATP-binding cassette transporters  (Transportadores ABC)
+✓El sustrato se une a una proteína cassette soluble (en periplasma de Gram -, 
+o ligada en lado externo de membrana plasmática en Gram +).  
+✓El complejo sustrato-cassette se une entonces a una bomba de ATPasa 
+ligada a membrana, que transportará la molécula de sustrato a través de la 
+membrana plasmática.
+*Proteína periplásmica de 
+unión
+*Proteínas trasmembranales
+*ATPasa (hidrólisis de ATP)
+200 sistemas en procariotas
+Maltosa en E. 
+coli
+
+--- Diapositiva 24 ---
+Sistemas de transporte activo en bacterias
+Sistema de translocación en grupo
+La molécula que se transporta se modifica químicamente: 
+se fosforila durante el transporte
+Ejemplo: Sistema fosfoenolpiruvato: azúcar fosfotransferasa (PTS)
+PEP + azúcar (exterior)       piruvato + azúcar-fosfato (interior)           
+  (glucosa, manosa, fructosa, N-acetil glucosamina)
+Sistema con varios 
+componentes que 
+transportan el P de alta 
+energía del PEP al 
+azúcar a transportar
+Ahorro de energía metabólica -----> se gasta un solo enlace rico en energía para 2 
+procesos: transporte y activación de molécula
+
+--- Diapositiva 25 ---
+.
+OBTENCIÓN DE ENERGÍA 
+(CATABOLISMO)
+✓Quimiótrofos  (lito y organótrofos)
+✓Fotótrofos
+
+--- Diapositiva 26 ---
+Obtención de energía
+Quimiotrofía: Oxidación de comp. químicos (catabolismo)
+✓Compuestos orgánicos (quimioorganótrofos)
+Glucosa ----> CO2
+Glucólisis (glucosa ----> piruvato)
+Fermentación                    Respiración
+                                                  (aeróbica y anaeróbica)
+✓Compuestos inorgánicos (quimiolitótrofos)
+Fototrofía: Fotosíntesis     (“catabolismo + anabolismo”)
+
+--- Diapositiva 27 ---
+.
+OBTENCIÓN DE 
+ENERGÍA 
+(CATABOLISMO)
+Quimióorganótrofos
+✓Glucólisis
+✓Fermentación - Respiración
+✓Catabolismo de lípidos y proteínas
+
+--- Diapositiva 28 ---
+Catabolismo de hidratos de carbono
+1°Etapa
+GLUCÓLISIS (Ruta de Embden - Meyerhof)
+Glucosa       2 Ac. Pirúvico
+2 ATP
+2 NADH
+- Ruta de las Pentosas Fosfato (similar: fosfocetolasa)
+- Ruta de Entner - Dudoroff (sólo en procariotas)
+                                               2 NADPH  + 1 ATP
+2°Etapa
+Ácido Pirúvico
+Fermentación
+Respiración
+
+--- Diapositiva 29 ---
+GLUCÓLISIS
+2
+NADH2
+ATP
+
+--- Diapositiva 30 ---
+
+--- Diapositiva 31 ---
+Catabolismo de hidratos de carbono
+1°Etapa
+GLUCÓLISIS (Ruta de Embden - Meyerhof)
+Glucosa + 2 (NAD + ADP+P)           2 (Ac. Pirúvico + ATP + NADH)
+2°Etapa
+Ácido Pirúvico
+FERMENTACIÓN  /   RESPIRACIÓN
+Sin CTE ni AFEE 
+No requiere O2
+LÁCTICA            
+ALCOHÓLICA            
+ÁCIDO-MIXTA
+BUTILENGLICÓLICA
+Con CTE y AFEE 
+O2
+No O2
+AERÓBICA
+           ANAERÓBICA
+CTE cadena de transporte de electrones
+AFEE: aceptores finales de electrones externos
+
+--- Diapositiva 32 ---
+Fermentación
+✓Proceso REDOX que ocurre en ausencia de un aceptor final de 
+electrones externo («AFEE»).
+✓El compuesto final se forma a partir del propio sustrato inicial
+✓Rendimiento bajo en ATP, formado por Fosforilación a nivel de 
+sustrato.
+PRODUCTOS: Reducción del ácido pirúvico para regenerar NAD+
+CTE cadena de transporte de electrones
+AFEE: aceptores finales de electrones externos
+
+--- Diapositiva 33 ---
+Fermentación láctica
+Liberación de ácidos al medio: descenso de pH
+Cambios  químicos – microbiológicos – organolépticos
+
+--- Diapositiva 34 ---
+Fermentaciones lácticas
+Ej: Streptococcus spp., Lactobacillus spp.                  Ej: Leuconostoc spp., Lactobacillus 
+spp.
+
+--- Diapositiva 35 ---
+.HOMOLÁCTICA
+HETEROLÁCTICA
+Vía
+Embden - 
+Meyerhof
+2 lactatos
+2 ATP
+Vía Pentosa 
+Fosfocetolasa
+1 lactato + 
+1 etanol +  
+1 CO2
+1 ATP
+Sistema de 
+translocación 
+en grupo
+
+--- Diapositiva 36 ---
+Fermentación alcohólica
+Microorganismo: Levaduras
+
+--- Diapositiva 37 ---
+Otras fermentaciones
+
+--- Diapositiva 38 ---
+Fermentación
+Productos finales
+
+--- Diapositiva 39 ---
+Fermentación
+Ejemplos
+
+--- Diapositiva 40 ---
+Algunos usos industriales para diferentes tipos de fermentaciones 
+
+--- Diapositiva 41 ---
+Resultado neto de la fermentación de la glucosa
+✓Consumo de glucosa
+✓Síntesis neta de 2 ATP (excepción: heterolácticas, 1 ATP)
+✓Generación de productos de fermentación (interés industrial – identificación 
+de microorganismos)
+37°C por 
+48 hs
+
+--- Diapositiva 42 ---
+Resultado neto de la fermentación de la glucosa
+✓Consumo de glucosa
+✓Síntesis neta de 2 ATP (excepción: heterolácticas, 1 ATP)
+✓Generación de productos de fermentación (interés industrial – identificación 
+de microorganismos)
+FERMENTACIÓN DE AZÚCARES
+Producción de ácido  y gas
+
+--- Diapositiva 43 ---
+Respiración: Flujo de Carbono y Transporte de 
+Electrones
+Respiración:  proceso catabólico (generación de ATP) en 
+el cual los compuestos químicos son oxidados y el O2 u 
+otro oxidante actúan como aceptor final de electrones.
+1) Transformación de la cadena carbonada
+2) Flujo de electrones
+3)  Vías bioquímicas de transformación de C org. a CO2 
+4)  Transporte de electrones desde comp. org.  hasta 
+aceptor terminal, con síntesis de ATP a expensas de la 
+fuerza motriz de protones (“proton motive force”). 
+Fosforilación oxidativa
+
+--- Diapositiva 44 ---
+Etapas
+1°Etapa: Glucólisis
+Glucosa         2 Ac. Pirúvico + 2 ATP+ 2 NADH
+2°Etapa: Escisión de Ácido Pirúvico 
+Acetil-CoA
+3°Etapa: Ciclo de Krebs (o CAC)
+4°Etapa: Sistema de Transporte de Electrones
+                     Generación de ATP por Fosforilación oxidativa
+
+--- Diapositiva 45 ---
+.
+Ciclo del ácido 
+cítrico (CAC)
+Ciclo de los 
+ácidos 
+tricarboxílicos 
+(TAC –CAT)
+Glucosa a 
+CO2
+GTP
+NADH-NADPH 
+FADH
+Cadenas
+carbonadas
+2 4 5 6 C
+Ciclo de 
+Krebs
+
+--- Diapositiva 46 ---
+Conjunto de reacciones  del ciclo de Krebs
+✓1 molécula de glucosa da lugar a 2 de acetil-CoA, que pueden entrar en este 
+ciclo
+✓El total será el doble del indicado en esta reacción
+
+--- Diapositiva 47 ---
+Cadena de transporte de electrones
+Los sistemas de transporte de electrones que se acoplan 
+al ciclo de Krebs están compuestos por carriers adosados 
+a membranas. 
+Tienen 2 funciones básicas: 
+1. Aceptar electrones del dador de electrones y 
+transferir los al aceptor en forma secuencial.
+2. Conservar la energía involucrada durante la 
+transferencia de electrones para la síntesis de 
+ATP por fosforilación oxidativa (quimiósmosis)
+
+--- Diapositiva 48 ---
+Quimiósmosis
+Mecanismo que utiliza un 
+gradiente de protones entre 
+membranas para producir ATP
+Membrana plasmática 
+(procariotas)
+Membrana 
+mitocondrial 
+(eucariotas)
+Membranas de 
+Sistemas fotosintéticos 
+
+--- Diapositiva 49 ---
+Potencial de Reducción de transportadores de la cadena de e-
+NADH
+FLAVOPROTEINAS
+FERROSULFO
+PROTEINAS
+QUINONAS
+CITOCROMOS
+(Fe)
+
+--- Diapositiva 50 ---
+Inhibidores de la cadena respiratoria
+✓Monóxido de Carbono (CO) se combina directamente con 
+la citocromo oxidasa terminal, por lo cual bloquea la 
+entrada de oxígeno a la enzima. 
+✓Cianuro (CN-) se une al hierro del citocromo e impide la 
+transferencia de electrones. (Azida sódica: N3Na)
+
+--- Diapositiva 51 ---
+
+--- Diapositiva 52 ---
+
+--- Diapositiva 53 ---
+Respiración anaeróbica
+Proceso catabólico realizado cuando el aceptor final de electrones 
+NO es el oxígeno molecular.
+
+--- Diapositiva 54 ---
+E. coli 
+
+--- Diapositiva 55 ---
+
+--- Diapositiva 56 ---
+Digestión extracelular de polímeros orgánicos 
+(proteínas y lípidos)
+Enzimas secretadas al exterior por sistema “SEC”
+
+--- Diapositiva 57 ---
+Catabolismo de los lípidos
+1 g de lípido: 9,3 Kcal –1 g de CH o proteína: 4 Kcal
+GLICERINA
+ACIDOS 
+GRASOS
+ACIDOS 
+GRASOS
+ACIDOS 
+GRASOS
+Lipasas extracelulares
+Glicerina
+3 ac. grasos
+Gliceraldehído 3 P
+1ra fase de la glucolisis
+Βeta oxidación de AG 
+Lípido (exterior celular)
+Ej.: Ac. Grasos esterificados 
+con glicerol
+NADH2
+Acetil CoA
+Transporte de e-
+Ciclo de Krebs
+
+--- Diapositiva 58 ---
+Catabolismo de proteínas
+✓Desaminación (prueba de identificación): NH3 
+excretado + esqueleto carbonado
+✓Esqueletos carbonados entran en el ciclo CAT para 
+sufrir una mayor oxidación vía acetil CoA, ácido 
+cetoglutárico, ácido succínico, ácido fumárico o 
+ácido oxalacético
+Las proteínas son demasiado grandes para atravesar 
+las membranas
+Los microorganismos excretan proteasas (SEC) que 
+hidrolizan las proteínas exógenas a péptidos.  
+Proteasas         Peptidasas     
+   Proteínas        Péptidos            Aminoácidos
+
+--- Diapositiva 59 ---
+Catabolismo de 
+proteínas y lípidos
+
+--- Diapositiva 60 ---
+Rutas de otros 
+compuestos 
+en la respiración 
+
+--- Diapositiva 61 ---
+Obtención de energía
+Quimiotrofía: Oxidación de compuestos químicos (catabolismo)
+✓Compuestos orgánicos: Glucosa --->CO2
+✓Compuestos Inorgánicos: (quimiolitótrofos)
+Fototrofía:  Fotosíntesis (“catabolismo + anabolismo”)
+Fermentación
+Respiración
+(aeróbica y anaeróbica)
+
+--- Diapositiva 62 ---
+.
+OBTENCIÓN DE 
+ENERGÍA 
+(CATABOLISMO)
+Quimiolitótrofos
+
+--- Diapositiva 63 ---
+Quimiolitótrofos
+La capacidad de obtener energía por Fosforilación oxidativa a 
+partir de donadores inorgánicos de electrones sólo se presenta en 
+ciertos grupos de procariotas
+Cada grupo fisiológico de quimiolitótrofos usa un tipo de dador de 
+electrones inorgánico (reducido):
+✓Bacterias de hidrógeno (H2) Desulfovibrio sp.             CO2 SO4
+2-
+✓Bacterias del hierro (Fe2+) Thiobacillus ferrooxidans
+✓Bacterias del azufre (S2-) Thiobacillus denitrificans              NO3
+-
+✓Bacterias nitrificantes, con dos subtipos: 
+Oxidadoras de amoníaco (“nitrosas”: Nitrosomonas sp.)
+Oxidadoras del nitrito (“nítricas”: Nitrobacter sp.).
+Aceptores de e-: O2 (aerobiosis)                                       
+Otros: sulfatos, nitratos (oxidados)
+
+--- Diapositiva 64 ---
+.
+OBTENCIÓN DE 
+ENERGÍA 
+(CATABOLISMO)
+Fotótrofos
+
+--- Diapositiva 65 ---
+Fototrofía
+¿FOTOTROFIA = FOTOSÍNTESIS ?
+FOTOFOSFORILACIÓN
+CÍCLICA
+FOTOFOSFORILACIÓN
+ACÍCLICA
+
+--- Diapositiva 66 ---
+FOTOFOSFORILACIÓN
+CÍCLICA
+ACÍCLICA
+PIG.
+FOTOS’
+-No hay dador externo de 
+electrones                              
+- Fotoheterótrofas
+- No fijación  CO2                          
+- Bact. rojas no sulfurosas  y 
+verdes no sulfurosas 
+Rhodopseudomonas; 
+Chloroflexus
+- Dador externo de e “H2A” 
+(agente reductor)                 
+- Oxigénica: H2O             
+- Anoxigénica: H2S
+- Fijación de CO2
+- Fotoautótrofas
+
+--- Diapositiva 67 ---
+FOTOSÍNTESIS
+
+--- Diapositiva 68 ---
+Fases de la  
+Fotosíntesis
+- Independiente de luz
+- Uso de energía y poder de 
+reducción para forma 
+enlaces covalentes entre C
+- Ídem quimioautótrofos
+
+--- Diapositiva 69 ---
+.
+Anabolismo
+Relación 
+Catabolismo -Anabolismo
+
+--- Diapositiva 70 ---
+BIOSÍNTESIS
+(Anabolismo)
+
+--- Diapositiva 71 ---
+Intermediarios 
+catabólicos usados 
+en el anabolismo
+
+--- Diapositiva 72 ---
+AMINACIÓN
+Unión de NH2 a esqueleto carbonado 
+
+--- Diapositiva 73 ---
+Biosíntesis de Peptidoglucano
+Molécula con residuos alternados de 
+N-acetilglucosamina (NAG) y ácido N-acetilmurámico (NAM).
+Tetrapéptido-NAM 
+Uniones interpeptídicas entre cadenas tetrapeptídicas
+
+--- Diapositiva 74 ---
+(M) N-acetil murámico NAM
+(G) N-acetil glucosamina NAG
+LISOZIMA
+Unión 
+interpeptídica
+Unión 
+interpeptídica
+(puente)
+Penicilina
+TETRAPÉPTIDO
+
+--- Diapositiva 75 ---
+4
+3
+2
+1
+Transportador de membrana: bactoprenolo Lip-p 
+(undecaprenil-fosfato)
+Fase 1: Síntesis de 
+precursores NAG-UDP y 
+NAM-UDP; adición 
+secuencial de 
+aminoácidos al NAM 
+(citoplasma)
+Fase 2: Unión Lip-P con 
+NAM-pentapéptido; unión 
+NAG (lisozima)
+Fase 3: traslocación de 
+disacárido y 
+polimerización por 
+transglucosidación 
+(glicolasas)
+Fase 4: unión nueva 
+cadena lineal con PG 
+preexistente por 
+transpeptidación 
+(penicilina, vancomicina)
+
+--- Diapositiva 76 ---
+- Relación entre las 
+transformaciones 
+catabólicas y 
+anabólicas
+Quimioheterótrofos 
+(flujo doble de C)
+Comportamiento ante 
+el O2
+Quimio(lito)
+autótrofos
+Fotoautrótofos
+
+--- Diapositiva 77 ---
+Quimioheterótrofos 
+Quimioautotrofos 
+Fotoheretotrofos
+Fotoautotrofos
+
+--- Diapositiva 78 ---
+Bibliografía
+• Capítulo 3 – Metabolismo microbiano. Biología de los 
+Microorganismos (Brock)
+• Capítulo 13 - Diversidad metabólica de los Microorganismos 
+(Brock)

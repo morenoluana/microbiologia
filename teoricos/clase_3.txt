@@ -1,0 +1,776 @@
+
+--- Diapositiva 1 ---
+MICROBIOLOGIA 
+GENERAL
+CONTROL DEL CRECIMIENTO MICROBIANO
+
+--- Diapositiva 2 ---
+Condiciones óptimas para el 
+desarrollo microbiano
+• FACTORES NUTRICIONALES
+Disponibilidad y Cantidad suficiente de:
+- Macro y Micronutrientes
+- Factores de Crecimiento
+• CONDICIONES AMBIENTALES
+- Temperatura
+- Agua Disponible
+- pH
+- Oxígeno
+
+--- Diapositiva 3 ---
+Procesos de control de crecimiento
+• AGUA (Depuración – Potabilización)
+- Filtración
+- Cloración
+• ALIMENTOS (Prevenir ETA)
+- Pasteurización
+- Refrigeración
+• PROCESOS
+- Esterilización - Tindalización
+- Desinfección
+
+--- Diapositiva 4 ---
+Cinética de muerte microbiana
+¿Cuándo la célula está muerta?
+En el caso de los microorganismos, el único criterio válido de muerte es 
+la pérdida irreversible de la capacidad de multiplicación. 
+En el caso de los virus (no se pueden matar, se pueden inactivar) se les 
+considera inactivos cuando ya no pueden replicarse en un hospedador 
+adecuado.
+El efecto de los diferentes agentes en una población depende de varios 
+factores:
+✓Tipo de agente 
+✓El tiempo de aplicación
+✓La dosis aplicada
+No obstante, una población no se destruye de un modo instantáneo al 
+exponerse a un agente letal. 
+La muerte, al igual que el crecimiento, es generalmente exponencial: 
+se reduce en niveles igual a intervalos constantes.
+
+--- Diapositiva 5 ---
+Cinética de muerte microbiana
+
+--- Diapositiva 6 ---
+Cinética de muerte microbiana
+
+--- Diapositiva 7 ---
+Cinética de muerte microbiana
+Término
+¿Qué ocurre con la 
+bacteria?
+¿Muere?
+¿Hay lisis celular?
+Bacteriostático
+Inhibe o detiene su 
+crecimiento y 
+multiplicación
+No 
+necesariamente
+No
+Bactericida
+Mata a las bacterias
+Sí
+No 
+necesariamente
+Bacteriolítico
+Mata a las bacterias 
+provocando lisis 
+celular
+Sí
+Sí
+
+--- Diapositiva 8 ---
+Control microbiano por 
+métodos físicos
+CALOR
+La cinética de muerte por calor es una función exponencial de 
+primer orden. Se produce la muerte por calor más rápidamente al 
+ir aumentando la temperatura.
+Cinética de muerte 
+Sobrevivientes/ ml
+Tiempo 
+Log. Sobrevivientes / ml
+Nt = No e -kt
+Concentración de 
+microorganismos 
+sobrevivientes al 
+tratamiento 
+térmico al tiempo 
+t
+Concentración 
+inicial de 
+microorganismos
+Comportamiento tipo exponencial
+
+--- Diapositiva 9 ---
+CALOR
+Para estudiar la esterilización por calor hay que conocer una serie de 
+parámetros:
+TIEMPO DE MUERTE TÉRMICA (TMT) es el tiempo de calentamiento en 
+minutos requeridos para alcanzar un determinado nivel de reducción de una 
+cierta población de microorganismos a una dada temperatura. 
+TIEMPO DE REDUCCIÓN DECIMAL (D): Tiempo requerido para reducir la 
+población microbiana un 90% (o un orden de magnitud) a una condición dada 
+de tratamiento  
+Control microbiano por 
+métodos físicos
+
+--- Diapositiva 10 ---
+CALOR
+Para estudiar la esterilización por calor hay que conocer una serie 
+de parámetros:
+VALOR Z: Cambio de temperatura necesario para reducir 10 veces 
+(una unidad logarítmica) el valor D
+Cinética de muerte microbiana
+Control microbiano por 
+métodos físicos
+
+--- Diapositiva 11 ---
+Esterilización
+Proceso cuyo objetivo es la eliminación o muerte de 
+todo organismo vivo que contiene un objeto o sustancia.
+ APLICACIÓN
+✓Prevenir transmisión de enfermedades
+✓Evitar deterioro de alimentos y materiales
+✓Evitar contaminación en procesos 
+✓Acondicionar materiales de laboratorio 
+✓Preparar medios de cultivos
+✓Descontaminar material utilizado 
+
+--- Diapositiva 12 ---
+Factores que afectan al proceso de 
+esterilización
+✓Factores inherentes al microorganismo
+✓Factores ambientales que actúan durante el crecimiento del 
+microorganismo
+✓Factores que actúan durante la aplicación del agente letal
+Resistencia a calor
+✓Endosporas bacterianas
+✓Mycobacteria
+✓Virus sin envoltura lipídica
+✓Hongos
+✓Bacterias
+✓Virus con envoltura lipídica
+
+--- Diapositiva 13 ---
+Factores que afectan al proceso de 
+esterilización
+Factores inherentes al microorganismo
+     - Tipo, esporulación, Gram, cápsula
+     - Estado fisiológico
+Factores ambientales que actúan durante el crecimiento 
+del microorganismo
+     - Medio de cultivo
+     - Temperatura de incubación
+Factores que actúan durante la aplicación del agente 
+letal
+     - Número de microorganismos
+     - Tiempo de exposición al agente letal
+
+--- Diapositiva 14 ---
+Efecto del N° de microorganismos y del 
+tiempo de exposición
+
+--- Diapositiva 15 ---
+Factores que actúan durante la 
+aplicación del agente letal
+✓Número de microorganismos
+✓Tiempo de exposición al agente letal
+✓Efecto de la concentración del agente de control 
+✓Temperatura
+✓Matriz:
+• Consistencia
+• Composición: proteínas, lípidos, materia orgánica
+• Humedad
+• pH
+✓Alteración de la permeabilidad y/o ruptura de la membrana citoplasmática
+✓Alteración de proteínas (inactivación de enzimas, desnaturalización)
+✓Alteración de los ácidos nucleicos
+Modo de acción de los agentes de esterilización
+
+--- Diapositiva 16 ---
+Agentes de esterilización 
+➢ AGENTES FÍSICOS
+     Calor
+                  Húmedo: Vapor a presión  -  Tindalización
+                  Seco: Aire caliente  -  Flameado
+     Radiación  
+     Filtración       
+➢AGENTES QUÍMICOS (“desinfectantes”)
+    Gaseosos 
+Óxido de etileno
+    No gaseosos    Aldehídos - Peróxidos
+
+--- Diapositiva 17 ---
+Esterilización por calor húmedo
+El calor húmedo destruye los microorganismos por 
+coagulación de sus proteínas celulares. 
+El principal método de esterilización que emplea calor 
+húmedo es la ESTERILIZACIÓN POR VAPOR A PRESIÓN. 
+Existen otros métodos de descontaminación que emplean 
+este tipo de calor los cuales, aunque no permiten la 
+destrucción total de los microorganismos, disminuyen la 
+carga microbiana que posee un material.
+Entre estos métodos podemos citar: 
+✓ Tindalización (esterilización fraccionada) 
+✓ Agua hirviendo 
+✓ Pasteurización
+
+--- Diapositiva 18 ---
+Esterilización por vapor a presión 
+AUTOCLAVE
+Presión: 1 atm por encima de la presión atmosférica  
+(corresponde a 121°C, si se eliminó el aire completamente)
+Tiempo de exposición mínimo: 15 min 
+Indicadores 
+•
+Físicos (temperatura – presión)
+•
+Químicos 
+•
+Biológicos
+Geobacillus stearothermophilus
+
+--- Diapositiva 19 ---
+USOS
+ -  Materiales termoestables (soluciones acuosas)
+-   Desechos biológicos
+VENTAJAS
+-   Esterilización en tiempos breves
+-   No deja residuos tóxicos
+-   Económico
+INCONVENIENTES
+-   No se puede aplicar para sustancias 
+termolábiles
+-   Corrosión de instrumentos metálicos
+HAY QUE TENER EN CUENTA
+Estado fisiológico de las células: las células jóvenes son más 
+vulnerables que las viejas.
+Tipo de microorganismo: las células vegetativas en desarrollo son
+mucho más susceptibles que las esporas.
+Esterilización por vapor a presión 
+AUTOCLAVE
+
+--- Diapositiva 20 ---
+Esterilización por vapor a presión 
+AUTOCLAVE
+La esterilización comienza cuando se ha alcanzado la temperatura de proceso en 
+el interior del aparato (autoclave o estufa) 
+Según la carga, se pueden requerir tiempos más prolongados para alcanzar la 
+temperatura de esterilización.
+
+--- Diapositiva 21 ---
+Tindalización
+CONDICIONES
+✓Calentamiento del material a 100°C por 1 h, durante 
+3 días con sucesivos períodos de incubación.    
+✓Las esporas resistentes germinarán durante los 
+períodos de incubación y en la siguiente exposición 
+al calor las células vegetativas son destruidas.
+USOS
+✓Sustancias que no soportan altas presiones y 
+temperaturas superiores a 100°C.
+(“Esterilización fraccionada”)
+
+--- Diapositiva 22 ---
+Esterilización por calor seco
+(Aire caliente)
+La esterilización por calor seco produce la destrucción de 
+los microorganismos por oxidación de sus componentes 
+celulares. 
+Es un proceso menos eficiente que la esterilización por 
+calor húmedo, porque los microorganismos mueren con 
+mayor rapidez cuando se encuentran en presencia de 
+agua, ya que éste permite que se altere con mayor 
+facilidad la configuración de sus proteínas y proporciona 
+un medio para distribuir el calor uniformemente en toda 
+la cámara interna del equipo de esterilización. 
+Por esta razón, para lograr la esterilización del material 
+empleando el calor seco, se deben aplicar temperaturas 
+más altas durante mayor tiempo. 
+
+--- Diapositiva 23 ---
+CONDICIONES DE PROCESO
+✓Equipo: Hornos (con o sin circulación forzada de aire)
+✓Temperatura y tiempo: 160 - 180°C durante 1 - 2 h
+INDICADORES: 
+Físicos (temperatura)
+Químicos
+Biológicos: 
+Bacillus atrophaeus 
+(nombre anterior B. subtilis var. Niger)
+Esterilización por calor seco
+(Aire caliente)
+
+--- Diapositiva 24 ---
+USOS
+✓Materiales sólidos termoestables (material de vidrio)
+✓Polvos
+VENTAJAS
+✓Esterilización de sustancias en polvo y no acuosas
+✓No es corrosivo para metales
+INCONVENIENTES
+✓No se puede aplicar para sustancias termolábiles
+✓Requiere mayor tiempo de exposición que el calor húmedo por 
+el menor coeficiente de transferencia calórica del aire con 
+respecto al vapor de agua. 
+Esterilización por calor seco
+(Aire caliente)
+
+--- Diapositiva 25 ---
+Otros procesos térmicos
+Incineración: 
+Destrucción de material contaminado
+Flameado: 
+(quemado con alcohol) 
+Desinfección
+
+--- Diapositiva 26 ---
+
+--- Diapositiva 27 ---
+Pasteurización
+(*) Si el contenido de grasa del producto es 10% o superior, la temperatura especificada debe ser 
+incrementada en 3 °C
+Destruye patógenos (Coxiella burnetti, Mycobacterium tuberculosis) y reduce microbiota  
+de deterioro 
+Mycobaterium tuberculosis: D72 = 1 seg  y  z = 4,8 ° C
+
+--- Diapositiva 28 ---
+Calentamiento a ebullición
+Temperatura: 100°C
+Tiempo: Variable
+Virus y toxinas pueden ser muy resistentes
+Usos: 
+✓Desinfección de instrumentos
+✓Preparación de conservas (pH<4,5 o baja Aw), 
+capaz de lograr esterilidad comercial de algunos 
+productos en los que no puede crecer el C. 
+botulinum.
+
+--- Diapositiva 29 ---
+Radiaciones
+IONIZANTES
+NO IONIZANTES
+Los rayos X y los rayos gamma son formas ionizantes de esterilización por radiación, ya 
+que al ser altas formas de energía hacen que las moléculas liberen hidrógeno libre, 
+radicales de hidroxilo y peróxidos. Estos radicales son capaces de causar graves daños 
+intracelulares.
+La radiación UV no puede ionizar las moléculas. las moléculas absorben las longitudes 
+de onda de los rayos UV y hacen que los electrones se exciten y pasen a estados de 
+mayor energía que destruye las estructuras celulares.
+Los métodos de irradiación incluyen formas de radiación ionizantes y no ionizantes.
+
+--- Diapositiva 30 ---
+Radiaciones
+
+--- Diapositiva 31 ---
+Radiaciones ionizantes 
+Longitud de onda menor a 1 nm, alta energía
+Isótopos radiactivos (60Co o 137Cs)
+Gran poder de penetración
+Ionización de agua                             radicales libres muy reactivos  
+                                                                         Daño DNA – RNA
+Indicador biológico: Bacillus pumilus ATCC 27142
+Ventajas: Esterilización en frío
+Inconvenientes: Equipo e instalaciones especiales, 
+personal entrenado
+Aplicaciones
+Materiales termosensibles de uso quirúrgico y de laboratorio 
+Alimentos (radapertización)
+
+--- Diapositiva 32 ---
+Radiaciones ionizantes 
+Dosis:
+Energía absorbida.   
+Unidad: Gray (Gy) = 1 J absorbido por Kg
+1Gy = 100 rads
+Parámetros:
+D dosis a la cual se reduce en un 90% la población inicial
+Aplicaciones:
+Esterilización de materiales termo sensibles (25 kGy)
+Esterilización comercial de alimentos (radapertización) 30-40 kGy
+Pasteurización de alimentos (Radicidación) 2,5-10 kGy
+
+--- Diapositiva 33 ---
+Radiaciones ionizantes 
+Mecanismos de acción:
+Formación de radicales libres            Daño al ADN, ARN
+Resistencia:
+Priones
+Deinococcus radiodurans
+Enterococcus faecium 
+Esporas bacterianas
+Virus
+Hongos 
+Bacterias (en gral)
+D (kGy)
+3                 Bacillus pumilus
+1,2         Staphylococcus spp.
+
+--- Diapositiva 34 ---
+Luz ultravioleta
+Baja energía sin poder ionizante
+Sin poder penetrante
+Máxima eficiencia biocida a 260 nm
+Mecanismo de acción
+Blanco: DNA → Dímeros de timina
+Usos:
+Desinfección de superficies, aire y agua
+
+--- Diapositiva 35 ---
+Filtración
+Proceso que consiste en pasar una mezcla de fluido 
+y partículas a través de un medio poroso que 
+retiene los solidos en su superficie, en su matriz o 
+en ambos
+
+--- Diapositiva 36 ---
+Filtración
+Proceso que consiste en pasar una mezcla de fluido 
+y partículas a través de un medio poroso que 
+retiene los solidos en su superficie, en su matriz o 
+en ambos
+MICROORGANISMOS RETENIDOS (“ELIMINACIÓN”):
+     - efecto tamiz 
+     - efecto adsorción por interacción electrostática
+INDICADOR BIOLÓGICO 
+       Pseudomonas diminuta ATCC 19146 (0.2 µm)
+VENTAJA: Proceso frío
+INCONVENIENTES: Virus
+
+--- Diapositiva 37 ---
+Tipos de filtros
+Membranas filtrantes
+✓Discos de ésteres de celulosa con poros pequeños (0.22 
+µm) y definidos
+✓Efecto tamiz predomina sobre efecto adsorción 
+✓Ventajas: límite de filtración preciso
+✓Usos: esterilización de líquidos y análisis de aguas
+
+--- Diapositiva 38 ---
+Filtración de aire
+✓Filtros HEPA (High Efficiency Particulate Air) Compuestos 
+por pliegues de acetato de celulosa, usados para filtración 
+de aire. 
+✓Remoción de hasta el 99,97 % de partículas mayores de 
+0,3 µm de diámetro
+✓Se usan en cabinas o habitaciones de flujo laminar y 
+gabinetes de seguridad biológica
+
+--- Diapositiva 39 ---
+Filtración de aire
+Cabina de Flujo Laminar 
+Horizontal
+Protege la muestra, no 
+al operador
+Cabina de Seguridad Biológica 
+Clase II (con Flujo Laminar Vertical)
+Entrada de aire
+Salida de aire
+Protege la muestra, el 
+operador y el medio 
+ambiente
+
+--- Diapositiva 40 ---
+Agentes de esterilización 
+AGENTES QUÍMICOS 
+            “desinfectantes de alto nivel”
+Gaseosos          Óxido de etileno
+    
+No gaseosos    Aldehídos - Peróxidos
+
+--- Diapositiva 41 ---
+Agentes de esterilización 
+ÓXIDO DE ETILENO
+Agente  alquilante de grupos carboxilo, amino, sulfhidrilo e 
+hidroxilo de proteínas
+- Esterilizante gaseoso que se aplica en cámara hermética 
+(exposición 8 a 18 h)
+- Indicador Biológico: Bacillus atrophaeus 
+- Inconveniente: Tóxico
+- Usos: materiales termosensibles de laboratorio y de 
+industria farmacéutica, equipos  electrónicos, bombas 
+cardiorrespiratorias
+
+--- Diapositiva 42 ---
+Agentes de esterilización 
+GLUTARALDEHÍDO
+Agente  alquilante de grupos carboxilo, amino, sulfhidrilo e 
+hidroxilo de proteínas
+- Esterilizante líquido que se aplica en frío; en solución 2%, 
+exposición 3 a 10 h
+- Inconveniente: Irritante
+- Usos: instrumentos clínicos 
+
+--- Diapositiva 43 ---
+Agentes de esterilización 
+PERÓXIDO DE HIDRÓGENO
+- Agente oxidante: generación de radicales hidroxilo y superóxido que actúan 
+sobre DNA, proteínas y lípidos
+- Esterilizante como gas o en solución acuosa (20 - 35%)
+- Rápida descomposición en productos no tóxicos: oxígeno y agua
+- Usos: envasado aséptico – gabinetes biológicos
+
+--- Diapositiva 44 ---
+Selección del esterilizante
+DETERMINADA POR EL PRODUCTO A ESTERILIZAR 
+ESTERILIZANTE IDEAL
+ 
+✓Actividad microbicida rápida y segura
+✓Inerte con el material a esterilizar y equipos empleados
+✓Fácil difusión
+✓Sin residuos tóxicos
+✓Atóxico y no irritante
+✓No inflamable ni explosivo
+✓Fácil de manipular y almacenar
+✓Económico y de fácil disponibilidad
+
+--- Diapositiva 45 ---
+Desinfectantes
+DESINFECTANTES DE NIVEL INTERMEDIO
+Halógenos: Cloro – Yodo (oxidantes)
+Fenoles: Hexaclorofenol – Cresoles (membrana  
+                citoplasmática)
+Alcoholes: Etanol (desnaturalizan proteínas)
+DESINFECTANTES DE BAJO NIVEL
+Agentes tensioactivos: amonios cuaternarios 
+                                             (membrana citoplasmática)
+Metales pesados: Ag – Hg (inactivan proteínas)
+
+--- Diapositiva 46 ---
+Bacteriostático
+Bactericida
+Bacteriolítico
+Bacteriostático
+Bactericida
+Bacteriolítico
+
+--- Diapositiva 47 ---
+Método/agente
+Categoría predominante
+Mecanismo principal
+Refrigeración
+Bacteriostático
+Disminuye metabolismo y crecimiento
+Congelación
+Bacteriostático + muerte parcial Daño por frío y cristales de hielo
+Conservantes en bajas 
+concentraciones
+Bacteriostático
+Alteración metabólica/inhibición enzimática
+Tetraciclinas
+Bacteriostático
+Inhibición de síntesis proteica
+Macrólidos
+Bacteriostático
+Inhibición de síntesis proteica
+Autoclave
+Bactericida
+Desnaturalización de proteínas y daño celular 
+por calor
+Calor seco
+Bactericida
+Oxidación y desnaturalización
+Radiación ionizante
+Bactericida
+Daño del ADN y generación de radicales
+UV
+Bactericida
+Daño del ADN
+Alcoholes
+Bactericida
+Desnaturalización proteica y alteración de 
+membranas
+Cloro
+Bactericida
+Oxidación de componentes celulares
+H₂O₂
+Bactericida
+Estrés oxidativo
+Glutaraldehído
+Bactericida
+Entrecruzamiento de proteínas y ácidos 
+nucleicos
+Lisozima
+Bacteriolítico
+Hidroliza el peptidoglucano
+Bacteriófagos líticos
+Bacteriolítico
+Replicación y ruptura celular
+β-lactámicos
+Bactericida; frecuentemente 
+lítico
+Inhibición de síntesis de pared
+
+--- Diapositiva 48 ---
+CONSERVADORES QUÍMICOS
+CONTROL DEL CRECIMIENTO 
+MICROBIANO
+
+--- Diapositiva 49 ---
+Conservadores químicos
+Conservación: permite el consumo en  tiempo y lugar 
+escogido.
+Alteración de un alimento: cuando presenta cambios 
+sustanciales o cualquier tipo de modificaciones que 
+limitan su aprovechamiento.
+Causas: Fisicoquímica, biológica o microbiológica
+Alteración microbiana: cuando los microorganismos, 
+con su multiplicación y metabolismo, han modificado 
+de tal manera las características organolépticas de un 
+alimento o productos farmacéuticos, cosméticos, etc., 
+que perjudican su valor para el consumo o impiden 
+prácticamente que sea empleado para el fin que se 
+destinaba.
+
+--- Diapositiva 50 ---
+Conservadores químicos
+En que casos se utilizan?
+✓Posibilidad de alteración microbiana 
+✓Existencia del sustrato adecuado para el 
+desarrollo microbiano.
+✓Contaminación con la microbiota 
+correspondiente.
+✓Condiciones de vida favorables 
+(temperatura, aw, potencial redox, pH, 
+atmósfera adecuada)
+✓Tiempo de almacenamiento prolongado.
+
+--- Diapositiva 51 ---
+Causas y formas de alteración
+Químicas, físicas y 
+bioquímicas
+•
+Procesos autolíticos 
+pardeamiento 
+enzimático
+•
+Influencia atmosférica, 
+O2, luz, temperatura, 
+humedad, sequedad.
+•
+Factores tecnológicos.
+•
+Medio ambiente 
+productos químicos 
+del entorno, polvo, 
+olor.
+Microbiológica
+•
+Acción enzimática de 
+microorganismos con 
+o sin crecimiento de 
+los mismos.
+Biológicas
+•
+Desviaciones 
+fisiológicas, huevos 
+embrionados
+•
+Infestaciones 
+parasitarias, ácaros, 
+larvas, moscas, etc.
+•
+Depredadores, ratas, 
+cucarachas, etc.
+
+--- Diapositiva 52 ---
+Causas y formas de alteración
+Acciones
+Aspecto /Color
+• Decoloraciones
+• Madurado 
+anómalo
+• Quemadura fría
+Consistencia -Textura
+• Mucus
+• Reblandecimiento
+• Licuefacción
+• Gases
+Olor y sabor
+•
+Putrefacción
+•
+Acidificación
+•
+Rancidez
+
+--- Diapositiva 53 ---
+Conservadores químicos
+Conservación: Prolongar el plazo de vida útil.
+
+--- Diapositiva 54 ---
+Conservadores químicos
+El empleo de conservadores químicos es una práctica muy 
+antigua pero, sin embargo, los alimentos conservados con 
+ellos no son imperecederos, tan sólo se mantienen inalterados 
+por un período de tiempo limitado pues el crecimiento de los 
+microorganismos se ve retardado pero no inhibido totalmente. 
+El grado de inhibición final va a depender del tipo de sustancia 
+y de su concentración.
+Como norma general la eficacia de un conservador depende de 
+su concentración, es decir, cuanto mayor sea su nivel, mayor 
+será la muerte celular y más lento su crecimiento. 
+El empleo de conservadores solo tiene sentido cuando se 
+utiliza en concentraciones suficientes para neutralizar el 
+crecimiento microbiano, en su fase inicial, nunca en fase 
+exponencial porque en este caso harían falta cantidades muy 
+elevadas de conservador. 
+
+--- Diapositiva 55 ---
+Conservadores químicos
+¿A que nivel actúan?
+• Membrana: Separa el protoplasma del medio 
+exterior y posee propiedades selectivas.
+• Enzimas: Regulan el metabolismo celular.
+• Mecanismo genético: Regula la reproducción
+Los conservadores químicos pueden alterar uno o 
+más de estos blancos, inhibiendo la actividad celular
+
+--- Diapositiva 56 ---
+Conservadores químicos - Tipos de 
+interferencias
+Interferencia de membrana
+• Se produce todo el transporte selectivo y semipermeable
+• La parte más externa de la célula es altamente activa a los 
+grupos hidrófilos o hidrófobos
+• Cloro, sales de amonio cuaternario (productos tensioactivos) 
+ácidos grasos, alcoholes, aldehídos y fenoles
+• Actúan sobre membrana citoplasmática, dependiendo de la 
+tendencia a concentrarse alrededor de la célula, según 
+grupos hidrófilos o hidrófobos.
+56
+
+--- Diapositiva 57 ---
+Interferencia en la actividad enzimática
+• Las enzimas son proteínas con grupos activos unidos con un 
+sustrato molecular. Las interferencias a través de:
+• A) Precipitación de la proteína
+• B) Bloqueo de grupos activos
+• Esto genera inhibición o muerte de los microorganismos por la 
+modificación de alguna de las propiedades vitales de la célula.
+57
+Conservadores químicos - Tipos de 
+interferencias
+
+--- Diapositiva 58 ---
+Interferencia en el mecanismo genético
+Los microorganismos poseen cromosomas, dentro de estos, están los genes 
+constituidos por ácidos nucleicos pero que además pueden estar ligados con 
+moléculas de proteínas.
+Cualquier alteración de ya sea en los ácidos nucleicos o en las proteínas origina:
+•
+Inhibición
+•
+Mutación
+•
+Muerte
+Interfieren en el mecanismo genético: los rayos UV que producen mutaciones y 
+pérdida de capacidad de síntesis de vitaminas, de igual manera que los rayos X. 
+También interfieren los colorantes básicos en los nucleótidos.
+58
+Conservadores químicos - Tipos de 
+interferencias
+
+--- Diapositiva 59 ---
+Conservadores químicos

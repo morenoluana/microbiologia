@@ -1,0 +1,462 @@
+
+--- Diapositiva 1 ---
+MICROBIOLOGIA GENERAL
+CRECIMIENTO MICROBIANO 
+REQUERIMIENTOS NUTRICIONALES Y 
+AMBIENTALES
+
+--- Diapositiva 2 ---
+CRECIMIENTO MICROBIANO
+• Crecimiento celular: aumento de tamaño de la 
+célula
+• Crecimiento de poblaciones celulares: aumento del 
+número de células.
+CRECIMIENTO 
+MICROBIANO
+
+--- Diapositiva 3 ---
+FISIÓN BINARIA
+Masa umbral 
+(inicio replicación DNA) 
+Longitud umbral
+ (inicio formación septo)
+Los dos cromosomas se 
+mueven y se segregan a cada 
+polo del citoplasma de la 
+bacteria
+Proteínas Fts
+
+--- Diapositiva 4 ---
+¿Cómo se visualiza el crecimiento de la población?
+
+--- Diapositiva 5 ---
+¿Cómo se visualiza el crecimiento de la población?
+Bacterias inoculadas en medio líquido
+24 h a 37°C
+¿Cómo se cuenta el número de células?
+Recuento de U.F.C. (placas)
+Turbidez
+
+--- Diapositiva 6 ---
+TIEMPO DE DUPLICACIÓN O GENERACIÓN (G) 
+“tiempo requerido para que se complete un ciclo de 
+fisión binaria en toda la población”
+t = G
+Cada nuevo ciclo de fisión 
+aumenta la población en 
+un factor 2 (crecimiento 
+logarítmico o exponencial)
+2n
+G = puede ser desde minutos a días (depende de especie y condiciones de crec.)
+
+--- Diapositiva 7 ---
+Velocidad de crecimiento
+“Numero de generaciones por unidad de tiempo”
+Se utiliza para determinar condiciones óptimas de crecimiento 
+V=n/t
+
+--- Diapositiva 8 ---
+Duplicación de la población
+2n
+
+--- Diapositiva 9 ---
+Duplicación de la población
+
+--- Diapositiva 10 ---
+Duplicación de la población
+
+--- Diapositiva 11 ---
+Duplicación de la población
+Si se considera la célula bacteriana del ejemplo previo, con tiempo de generación de 
+20 minutos, y que está creciendo en forma exponencial …
+… Tras 48 horas de incubación, la población bacteriana será de 2 144 
+bacterias …
+Dado que el peso de una célula bacteriana (vol ≈1 μm3) es  ≈ 10-12g, el peso de la 
+masa bacteriana tras 48 h de crecimiento exponencial será 1025 toneladas…
+Peso de la Tierra 1022 toneladas
+¿?
+X 1000
+
+--- Diapositiva 12 ---
+Curva de crecimiento de la población
+
+--- Diapositiva 13 ---
+Crecimiento diáuxico
+
+--- Diapositiva 14 ---
+CULTIVO  CONTINUO QUIMIOSTATO
+Control sobre el N° de células y velocidad de crecimiento
+
+--- Diapositiva 15 ---
+REQUERIMIENTOS NUTRICIONALES
+
+--- Diapositiva 16 ---
+NUTRICIÓN
+Proceso por el cual los seres vivos toman del 
+medio donde habitan las sustancias químicas 
+(nutrientes) que necesitan para crecer y son 
+utilizadas para actividades celulares 
+metabólicas (fines energéticos y  biosintéticos)
+
+--- Diapositiva 17 ---
+Composición Química
+Célula bacteriana compuesta por moléculas orgánicas e inorgánicas, 
+siendo las más abundantes agua (70%) y proteínas (15%). 
+Proteínas: C-H-O-N-S
+Ácidos Nucleicos: C-H-O-N-P
+Carbohidratos: C-H-O          Lípidos: C-H-O-P
+
+--- Diapositiva 18 ---
+DEFINICIONES
+Nutrientes: Sustancias necesarias para el crecimiento microbiano 
+que se usan en la biosíntesis y producción de energía 
+Macronutrientes: Elementos captados por los microorganismos en 
+cantidades relativamente grandes. 95% la célula microbiana.  
+Función estructural y metabólica
+Micronutrientes: Elementos que se requieren en cantidades muy 
+pequeñas. Rol enzimático –Estructura proteica
+Factores de Crecimiento (orgánicos): Sustancias precursoras de 
+componentes orgánicos que el microorganismo es incapaz de 
+sintetizar. Generalmente se requieren en pequeñas concentraciones
+
+--- Diapositiva 19 ---
+NUTRIENTES
+MACRONUTRIENTES 
+(g o mg/L)
+✓Carbono
+✓Nitrógeno
+✓Fósforo
+✓Azufre
+✓Potasio
+✓Magnesio
+✓Calcio
+✓Sodio
+✓Oxígeno e Hidrógeno
+MICRONUTRIENTES 
+(trazas)
+✓Cromo
+✓Cobalto
+✓Cobre
+✓Manganeso
+✓Molibdeno
+✓Níquel
+✓Zinc
+✓Hierro
+
+--- Diapositiva 20 ---
+Macronutrientes
+
+--- Diapositiva 21 ---
+MICRONUTRIENTES 
+Trazas inorgánicas
+
+--- Diapositiva 22 ---
+FUNCIÓN FISIOLÓGICA DE SALES 
+INORGÁNICAS
+
+--- Diapositiva 23 ---
+Factores de crecimiento
+Sustancias precursoras de componentes orgánicos que el 
+microorganismo es incapaz de sintetizar. Generalmente se requieren 
+en pequeñas concentraciones.
+
+--- Diapositiva 24 ---
+
+--- Diapositiva 25 ---
+Categorías (tipos) nutricionales de 
+microorganismos
+Fuente de Energía
+✓Luz (fotótrofos)
+✓Compuestos químicos (quimiótrofos)
+ (oxidación de compuestos químicos reducidos)
+Fuentes de Carbono (que constituya sus macromoléculas)
+✓CO2 (autótrofos)
+✓Carbono orgánico (heterótrofos)
+
+--- Diapositiva 26 ---
+Clasificación de los microorganismos según  
+fuentes de Energía y Carbono utilizadas
+
+--- Diapositiva 27 ---
+Categorías (tipos) nutricionales de 
+microorganismos
+
+--- Diapositiva 28 ---
+Medios de cultivo
+Soluciones acuosas (líquidas o gelificadas) que contienen, 
+en forma equilibrada y en concentraciones adecuadas, los 
+nutrientes necesarios para el crecimiento de los 
+microorganismos de interés
+AGUA +  C + N + (macro-micro) + F. Crec.
+
+--- Diapositiva 29 ---
+Medios de cultivo
+Clasificación según composición química
+
+--- Diapositiva 30 ---
+REQUERIMIENTOS NUTRICIONALES
+Ejemplo
+
+--- Diapositiva 31 ---
+MEDIOS DE CULTIVO
+Clasificación según función
+
+--- Diapositiva 32 ---
+MEDIOS DE CULTIVO
+Clasificación según función
+Medios generales
+✓Medios de enriquecimiento: medios líquidos que favorecen el 
+crecimiento de un tipo de microorganismo en particular, permitiendo 
+aumentar su número. Usualmente contienen una o más sustancias 
+inhibidoras del crecimiento de los microorganismos con excepción de los 
+que se quieren cultivar.
+✓Medios selectivos: parecidos a los de enriquecimiento, están 
+diseñados para el aislamiento de microorganismos específicos: poseen 
+agentes selectivos que impiden el desarrollo de la microbiota 
+acompañante.
+✓Medios diferenciales: medios sólidos que contienen indicadores de 
+productos derivados de la actividad metabólica de los microorganismos, 
+tal que permiten diferenciar el desarrollo de microorganismos diferentes
+
+--- Diapositiva 33 ---
+REQUERIMIENTOS AMBIENTALES
+ 
+Velocidad de crecimiento
+Distribución
+Control
+
+--- Diapositiva 34 ---
+DEFINICIONES
+Crecimiento vs. Tolerancia
+"–filo" : crecimiento ("afinidad")
+“-tolerante”: supervivencia
+“bacteria  termofílica ≠ termotolerante”
+Obligado (estricto) vs. Facultativo
+“Obligado”: Condición requerida para el crecimiento
+“Facultativo”: puede haber crecimiento, pero la 
+condición no es requerida
+
+--- Diapositiva 35 ---
+PRINCIPALES PARÁMETROS
+✓ TEMPERATURA
+✓ pH
+✓ ACTIVIDAD ACUOSA (Aw)
+✓ OXÍGENO
+✓ (Luz, presiones)
+
+--- Diapositiva 36 ---
+TEMPERATURA
+Principal factor que va a determinar la velocidad de crecimiento
+
+--- Diapositiva 37 ---
+TEMPERATURA
+
+--- Diapositiva 38 ---
+TEMPERATURA
+Clasificación de los microorganismos
+
+--- Diapositiva 39 ---
+TEMPERATURA
+Clasificación de los microorganismos
+TERMÓFILOS
+Adaptaciones bioquímicas
+enzimas y ribosomas termoresistentes
+Ácidos grasos saturados en membrana
+Fosfolípidos con enlaces éter
+Solutos termoprotectores (di-inositol 
+fosfato, di glicerol fosfato, 
+manosilglicerato, poliaminas)
+PSICRÓFILOS
+Adaptaciones bioquímicas
+enzimas resistentes
+sistemas de transporte adaptados
+AGI en fosfolípidos de membrana
+
+--- Diapositiva 40 ---
+TEMPERATURA
+Clasificación de los microorganismos
+
+--- Diapositiva 41 ---
+Tasa de crecimiento de E. coli a distintas 
+temperaturas
+
+--- Diapositiva 42 ---
+Temperaturas óptimas de crecimiento
+
+--- Diapositiva 43 ---
+pH
+
+--- Diapositiva 44 ---
+pH
+
+--- Diapositiva 45 ---
+pH
+
+--- Diapositiva 46 ---
+Rango de pH para el crecimiento 
+microbiano
+Membrana citoplasmática: poco permeable a H+ y OH-
+Neutralidad en citoplasma
+Regulación de pHi mediante sistema de transporte de 
+electrones ATP dependiente
+
+--- Diapositiva 47 ---
+¿Fuera de rango de pH?
+Inestabilidad de membrana citoplasmática                             
+Inhibición de enzimas                                                
+Alteración transporte de nutrientes
+Efecto nocivo directo
+Acidificación o alcalinización del medio
+Proteínas                            
+Ácidos nucleicos
+Efecto nocivo 
+indirecto
+Ionización de nutrientes
+Inhibición de transporte
+Acidificación
+Ácidos fuertes (inorgánicos) y ácidos débiles (orgánicos)
+Ácidos fuertes:  Alteración conformación de enzimas  
+(de pared o de membrana plasmáticas)
+
+--- Diapositiva 48 ---
+Ácidos débiles (orgánicos) y pH celular
+
+--- Diapositiva 49 ---
+pH
+Modificación de pH del medio por crecimiento celular
+Respuesta de tolerancia a stress por acidez
+(gastando energía puede modificar su composición 
+celular para sobrevivir)
+Sistemas tampón o buffer en medios de cultivo 
+(K2HPO4/KH2PO4)
+
+--- Diapositiva 50 ---
+
+--- Diapositiva 51 ---
+Actividad acuosa (Aw)
+✓
+Medida de la disponibilidad de agua en el medio
+✓
+Aw ≠ Humedad (%)
+✓
+Aw =  0 - 1
+
+--- Diapositiva 52 ---
+Actividad acuosa (Aw)
+
+--- Diapositiva 53 ---
+Actividad acuosa (Aw)
+
+--- Diapositiva 54 ---
+Actividad acuosa  en alimentos y 
+microorganismos 
+
+--- Diapositiva 55 ---
+Patógenos y actividad acuosa
+
+--- Diapositiva 56 ---
+Microorganismos que crecen a baja Aw
+✓HALÓFILOS: microorganismos que requieren sal para su 
+crecimiento. 
+✓HALOTOLERANTES: microorganismos no halófilos 
+capaces de crecer tanto en ausencia como en presencia 
+de sal  
+✓SACARÓFILOS (Osmófilos): son microorganismos 
+adaptados a ambientes con altas presiones osmóticas, 
+tales como altas concentraciones de azúcar.
+✓XERÓFILOS: organismos extremófilos que requieren una 
+baja disponibilidad de agua producto de una desecación.
+✓XEROTOLERANTES: soportan bajas Aw.
+
+--- Diapositiva 57 ---
+Efecto de la concentración de NaCl
+
+--- Diapositiva 58 ---
+Ósmosis
+• Difusión de solvente 
+(generalmente, agua) a 
+través de membrana 
+permeable pero selectiva 
+• El agua tiende a moverse 
+hacia zonas con mayor 
+concentración de solutos
+
+--- Diapositiva 59 ---
+Tonicidad 
+Relación Aw y presión osmótica
+Pared celular impide que 
+pase
+
+--- Diapositiva 60 ---
+Actividad acuosa: efecto sobre los 
+microorganismos
+Baja Aw (Plasmólisis)
+Incorporación/síntesis solutos compatibles
+Consumo de energía
+Soluto compatible: molécula o ion que se acumula en el citoplasma 
+para regular Aw. No inhibe procesos bioquímicos. Osmoprotectores
+
+--- Diapositiva 61 ---
+Solutos compatibles
+
+--- Diapositiva 62 ---
+Efecto de la reducción de Aw
+✓Inhibición del crecimiento
+✓Inhibición de la germinación de 
+esporas
+✓Aumento de la fase de 
+latencia (lag)
+✓Disminución de la velocidad 
+del crecimiento
+✓Disminución  del número final 
+de microorganismos
+✓Inhibición de síntesis de 
+toxinas; retraso de reacciones 
+enzimáticas
+
+--- Diapositiva 63 ---
+Oxígeno
+
+--- Diapositiva 64 ---
+Clasificación de los microorganismos de 
+acuerdo a su tolerancia al O2
+
+--- Diapositiva 65 ---
+Reducción del O2 a H2O 
+Generación de formas tóxicas del oxígeno
+
+--- Diapositiva 66 ---
+La respuesta de un organismo al O2 depende de la presencia de varias enzimas 
+que reaccionan con él y con varios radicales generados por las células. 
+Por ejemplo, la oxidación de las flavoproteínas da origen a la formación de H2O2 
+como el producto mayoritario y pequeñas cantidades del radical superóxido que 
+es aún más tóxico. Por lo tanto, todos los organismos que pueden vivir en 
+presencia del O2 (ya sea que lo utilicen o no), contienen SUPEROXIDO 
+DISMUTASA.  
+Además la mayoría de estos organismos (aerobios) contienen la enzima 
+CATALASA capaz de descomponer el peróxido, o alguna enzima equivalente en el 
+caso de los anaerobios aerotolerantes (PEROXIDASA). 
+Los anaerobios obligados han perdido la superóxido dismutasa y catalasa y/o 
+peroxidasa por lo que la presencia del oxigeno es letal.
+
+--- Diapositiva 67 ---
+Reacciones enzimáticas
+
+--- Diapositiva 68 ---
+Prueba de la catalasa
+NEGATIVA
+POSITIVA
+
+--- Diapositiva 69 ---
+Enzimas
+
+--- Diapositiva 70 ---
+Cultivo de microorganismos anaerobios 
+
+--- Diapositiva 71 ---
+Cultivo de microorganismos anaerobios 
+
+--- Diapositiva 72 ---
+La comprensión de las variables nutricionales y ambientales permite controlar, inhibir o 
+potenciar el crecimiento de los microorganismos, la forma de vida más prolífica del 
+planeta. 
