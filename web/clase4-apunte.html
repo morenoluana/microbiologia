@@ -107,10 +107,10 @@ footer{color:var(--muted);font-size:.85rem;border-top:1px solid var(--line);padd
 <main class="doc">
 
 <header class="stack">
-  <span class="eyebrow">Microbiología General · Clase 4 · Diapositivas 1 a 52</span>
+  <span class="eyebrow">Microbiología General · Clase 4 · Diapositivas 1 a 55</span>
   <h1>Metabolismo sin misterio</h1>
-  <p class="lead">Apunte completo de la parte de la clase 4 que entra al 1er parcial: redox, ATP, transporte, glucólisis, fermentaciones y respiración aeróbica hasta la cadena de electrones. Explicado desde cero, con esquemas, analogías y chequeos.</p>
-  <div class="scope"><strong>Qué entra:</strong> de la diapositiva 1 a la 52, hasta "Inhibidores de la cadena respiratoria". La respiración anaeróbica en detalle (diapositiva 53 en adelante), la quimiolitotrofía, la fotosíntesis y el anabolismo <strong>no se vieron</strong>, así que no están acá.</div>
+  <p class="lead">Apunte completo de la parte de la clase 4 que entra al 1er parcial: redox, ATP, transporte, glucólisis, fermentaciones, respiración aeróbica y anaeróbica, y la comparación entre respiración y fermentación. Explicado desde cero, con esquemas, analogías y chequeos.</p>
+  <div class="scope"><strong>Qué entra:</strong> de la diapositiva 1 a la 55, hasta la comparación de respiración y fermentación (incluye la respiración anaeróbica). Lo que sigue (digestión extracelular, quimiolitotrofía, fotosíntesis y anabolismo) <strong>no se vio</strong>, así que no está acá.</div>
   <div class="legend" aria-label="Código de colores">
     <span class="pill p-atp">ATP = energía lista para usar</span>
     <span class="pill p-nadh">NADH = transportador de electrones</span>
@@ -141,9 +141,11 @@ footer{color:var(--muted);font-size:.85rem;border-top:1px solid var(--line);padd
     <li><a href="#s14"><span>14</span>Cadena de electrones y quimiósmosis</a></li>
     <li><a href="#s15"><span>15</span>Cuenta de ATP: los 38</a></li>
     <li><a href="#s16"><span>16</span>Inhibidores de la cadena</a></li>
-    <li><a href="#s17"><span>17</span>Trampas de parcial</a></li>
-    <li><a href="#s18"><span>18</span>Autoevaluación con respuestas</a></li>
-    <li><a href="#s19"><span>19</span>Hoja de repaso final</a></li>
+    <li><a href="#s17"><span>17</span>Respiración anaeróbica</a></li>
+    <li><a href="#s18"><span>18</span>Respiración vs fermentación</a></li>
+    <li><a href="#s19"><span>19</span>Trampas de parcial</a></li>
+    <li><a href="#s20"><span>20</span>Autoevaluación con respuestas</a></li>
+    <li><a href="#s21"><span>21</span>Hoja de repaso final</a></li>
   </ol>
 </nav>
 
@@ -158,6 +160,7 @@ footer{color:var(--muted);font-size:.85rem;border-top:1px solid var(--line);padd
       <ul class="l">
         <li><strong>Fermentación</strong>: le devuelve los electrones al propio piruvato. Es rápido y sencillo, pero <strong>no gana más ATP</strong> (total: 2).</li>
         <li><strong>Respiración</strong>: desarma el piruvato del todo hasta CO₂ (<em>Krebs</em>), junta muchísimos NADH, y los descarga en una <strong>cadena de electrones</strong> que termina en el <span class="pill p-o2">O₂</span>. Esa cadena bombea <span class="pill p-h">H⁺</span>, y la vuelta de los H⁺ fabrica mucho ATP (total: <strong>38</strong>).</li>
+        <li><strong>Respiración anaeróbica</strong>: igual que la anterior, pero si no hay O₂ la cadena termina en otro aceptor que viene de afuera (nitrato, sulfato…). Hace ATP, pero menos que con O₂.</li>
       </ul>
     </li>
   </ol>
@@ -544,7 +547,7 @@ footer{color:var(--muted);font-size:.85rem;border-top:1px solid var(--line);padd
       <line x1="620" y1="302" x2="640" y2="326" stroke="currentColor" stroke-width="1.5" marker-end="url(#ar9)"/>
       <text x="470" y="344" text-anchor="middle" font-size="12" font-weight="800" fill="var(--o2)">AERÓBICA: O₂</text>
       <text x="650" y="344" text-anchor="middle" font-size="12" font-weight="700" fill="var(--muted)">ANAERÓBICA: otro</text>
-      <text x="650" y="358" text-anchor="middle" font-size="10" fill="var(--muted)">(no entra en detalle)</text>
+      <text x="650" y="358" text-anchor="middle" font-size="10" fill="var(--muted)">(NO₃⁻, SO₄²⁻… ver sección 17)</text>
     </svg></div>
     <figcaption>CTE = cadena de transporte de electrones. AFEE = aceptor final de electrones externo. La glucólisis es común a todos; la diferencia está en qué se hace <em>después</em>.</figcaption>
   </figure>
@@ -844,7 +847,7 @@ footer{color:var(--muted);font-size:.85rem;border-top:1px solid var(--line);padd
 <!-- 16 -->
 <section class="ch" id="s16">
   <div class="chhead"><span class="num">16</span><h2>Inhibidores de la cadena respiratoria</h2></div>
-  <p>Es la última diapositiva que entra (la 50). Son venenos que <strong>cortan el paso de electrones al final de la cadena</strong>. Sin flujo de electrones no se bombean H⁺ y no se hace ATP por fosforilación oxidativa.</p>
+  <p>Son venenos que <strong>cortan el paso de electrones al final de la cadena</strong>. Sin flujo de electrones no se bombean H⁺ y no se hace ATP por fosforilación oxidativa.</p>
   <div class="three">
     <div class="card"><h4>Monóxido de carbono (CO)</h4><p>Se une directamente a la <strong>citocromo oxidasa terminal</strong> y <strong>bloquea la entrada del O₂</strong> a la enzima.</p></div>
     <div class="card"><h4>Cianuro (CN⁻)</h4><p>Se une al <strong>hierro (Fe) del citocromo</strong> e <strong>impide la transferencia de electrones</strong>.</p></div>
@@ -855,7 +858,160 @@ footer{color:var(--muted);font-size:.85rem;border-top:1px solid var(--line);padd
 
 <!-- 17 -->
 <section class="ch" id="s17">
-  <div class="chhead"><span class="num">17</span><h2>Trampas de parcial</h2></div>
+  <div class="chhead"><span class="num">17</span><h2>Respiración anaeróbica</h2></div>
+  <div class="box key"><span class="k">Definición (diapositiva 53)</span><p>Proceso catabólico que se realiza cuando el <strong>aceptor final de electrones NO es el oxígeno molecular</strong>.</p></div>
+  <p>Es una <strong>respiración de verdad</strong>: tiene <strong>cadena de transporte de electrones</strong>, bombea H⁺ y fabrica ATP por <strong>fosforilación oxidativa</strong> (quimiósmosis). La única diferencia con la aeróbica es <strong>quién recibe los electrones al final</strong>: en lugar de O₂ es otro compuesto que la bacteria toma <strong>del exterior</strong> (nitrato, sulfato, fumarato, CO₂, Fe³⁺…).</p>
+  <div class="box ana"><span class="k">Analogía</span><p>Es la misma represa con turbina de la sección 14, pero el agua desemboca en otro lago, más alto que el del O₂. El agua cae menos, así que la turbina gira con menos fuerza: <strong>se hace ATP, pero menos</strong>.</p></div>
+
+  <h3>Aceptores finales y quién los usa (tabla de la clase)</h3>
+  <div class="tbl"><table>
+    <tr><th>Aceptor → producto reducido</th><th>Nombre del proceso</th><th>Procariotas (ejemplos)</th></tr>
+    <tr><td class="mono">NO₃⁻ → NO₂⁻ → N₂</td><td>Desnitrificación (hasta N₂ gaseoso)</td><td><em>Pseudomonas</em>, <em>Bacillus</em></td></tr>
+    <tr><td class="mono">NO₃⁻ → NO₂⁻</td><td>Respiración de nitrato (solo hasta nitrito)</td><td>Enterobacterias (<em>E. coli</em>)</td></tr>
+    <tr><td class="mono">SO₄²⁻ → S⁰ → SH₂</td><td>Sulfatorreducción (produce H₂S, olor a huevo podrido)</td><td>Sulfatorreductoras: <em>Desulfovibrio</em>, <em>Desulfotomaculum</em></td></tr>
+    <tr><td class="mono">Fumarato → succinato</td><td>Respiración de fumarato (aceptor orgánico, pero externo)</td><td>Enterobacterias</td></tr>
+    <tr><td class="mono">CO₂ → CH₄</td><td>Metanogénesis</td><td>Arqueas metanogénicas</td></tr>
+    <tr><td class="mono">Fe³⁺ → Fe²⁺</td><td>Reducción de hierro</td><td><em>Shewanella</em>, <em>Geobacter</em></td></tr>
+  </table></div>
+  <div class="box ex"><span class="k">Para ubicar a los ejemplos</span><ul class="l"><li>Las <strong>desnitrificantes</strong> del suelo hacen que se pierda nitrógeno como N₂ gaseoso.</li><li>Las <strong>sulfatorreductoras</strong> y las <strong>metanógenas</strong> son anaerobias estrictas de sedimentos, pantanos e intestino (el ejemplo de "sedimento profundo sin O₂" de las actividades).</li><li><em>E. coli</em> es <strong>anaerobia facultativa</strong>: con O₂ respira aeróbicamente, sin O₂ pero con nitrato hace respiración anaeróbica, y sin ninguno de los dos fermenta (ácido-mixta).</li></ul></div>
+
+  <h3>¿Por qué rinde menos que la aeróbica?</h3>
+  <p>Volvé a la torre de potenciales (diapositiva 54). Todos estos aceptores tienen un potencial <strong>menos positivo que el O₂</strong>, así que los electrones que salen del NADH (−0,32 V) <strong>caen menos</strong>, se bombean menos H⁺ y se hace <strong>menos ATP</strong>. Igual rinde <strong>más que la fermentación</strong>, porque hay cadena y fosforilación oxidativa.</p>
+  <figure>
+    <div class="sv"><svg viewBox="0 0 720 320" role="img" aria-label="Caída de potencial desde el NADH hasta cada aceptor: O2 1,14 V, nitrato a N2 1,06, nitrato a nitrito 0,74, hierro 0,52, fumarato 0,35, piruvato a lactato de la fermentación 0,13, sulfato 0,10">
+      <text x="10" y="22" font-size="12" font-weight="700" fill="var(--muted)">Aceptor final (E₀′)</text>
+      <text x="250" y="22" font-size="12" font-weight="700" fill="var(--muted)">Caída de potencial desde el NADH (−0,32 V) → energía disponible</text>
+      <g stroke="var(--line)"><line x1="250" y1="30" x2="250" y2="276"/><line x1="397" y1="30" x2="397" y2="276"/><line x1="543" y1="30" x2="543" y2="276"/><line x1="690" y1="30" x2="690" y2="276"/></g>
+      <g font-size="12" fill="currentColor">
+        <text x="10" y="55" font-weight="800" fill="var(--o2)">O₂ → H₂O (+0,82)</text><rect x="250" y="40" width="418" height="22" rx="4" fill="var(--o2)"/><text x="660" y="56" text-anchor="end" font-size="11" font-weight="800" fill="var(--paper)">1,14 V · aeróbica</text>
+        <text x="10" y="89">NO₃⁻ → N₂ (+0,74)</text><rect x="250" y="74" width="389" height="22" rx="4" fill="var(--nadh)"/>
+        <text x="10" y="123">NO₃⁻ → NO₂⁻ (+0,42)</text><rect x="250" y="108" width="271" height="22" rx="4" fill="var(--nadh)"/>
+        <text x="10" y="157">Fe³⁺ → Fe²⁺ (+0,20)</text><rect x="250" y="142" width="191" height="22" rx="4" fill="var(--nadh)"/>
+        <text x="10" y="191">Fumarato → succ. (+0,03)</text><rect x="250" y="176" width="128" height="22" rx="4" fill="var(--nadh)"/>
+        <text x="10" y="225" font-weight="800" fill="var(--e)">Piruvato → lactato (−0,19)</text><rect x="250" y="210" width="48" height="22" rx="4" fill="var(--e)"/><text x="306" y="226" font-size="11" font-weight="700" fill="var(--e)">fermentación (sin cadena)</text>
+        <text x="10" y="259">SO₄²⁻ → H₂S (−0,22)</text><rect x="250" y="244" width="37" height="22" rx="4" fill="var(--nadh)"/>
+      </g>
+      <g font-size="11" fill="var(--muted)" font-family="var(--mono)" text-anchor="middle"><text x="250" y="292">0</text><text x="397" y="292">0,4 V</text><text x="543" y="292">0,8 V</text><text x="690" y="292">1,2 V</text></g>
+      <text x="470" y="312" text-anchor="middle" font-size="11" fill="currentColor"><tspan fill="var(--nadh)" font-weight="800">azul</tspan> = respiración anaeróbica · valores de E₀′ de la diapositiva 54</text>
+    </svg></div>
+    <figcaption>Barra más larga = los electrones caen más = más energía para bombear H⁺ = más ATP. El O₂ gana lejos. El nitrato lo sigue (por eso la desnitrificación rinde bastante). Sulfato y CO₂ dan muy poca energía, y por eso las sulfatorreductoras y las metanógenas crecen lento.</figcaption>
+  </figure>
+
+  <h3>Ejemplo de la clase: la cadena de <em>E. coli</em> con nitrato</h3>
+  <figure>
+    <div class="sv"><svg viewBox="0 0 740 260" role="img" aria-label="Cadena de E. coli en anaerobiosis: NADH cede electrones a la flavoproteína, Fe-S, quinona y citocromo b556, que los entrega a la nitrato reductasa; el nitrato se reduce a nitrito y agua; se bombean protones hacia afuera en la flavoproteína y la quinona">
+      <defs><marker id="ar17" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--e)"/></marker><marker id="ar17h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--h)"/></marker><marker id="ar17k" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="currentColor"/></marker></defs>
+      <text x="12" y="26" font-size="12" font-weight="700" fill="var(--h)">AFUERA</text>
+      <rect x="0" y="80" width="740" height="64" fill="var(--mem)"/>
+      <line x1="0" y1="80" x2="740" y2="80" stroke="var(--mem-edge)" stroke-width="2"/><line x1="0" y1="144" x2="740" y2="144" stroke="var(--mem-edge)" stroke-width="2"/>
+      <text x="12" y="248" font-size="12" font-weight="700" fill="currentColor">ADENTRO (citoplasma)</text>
+      <rect x="95" y="70" width="80" height="84" rx="16" fill="var(--soft)" stroke="currentColor" stroke-width="2"/><text x="135" y="110" text-anchor="middle" font-size="12" font-weight="800" fill="currentColor">Fp</text><text x="135" y="126" text-anchor="middle" font-size="10" fill="var(--muted)">flavoprot.</text>
+      <rect x="200" y="92" width="70" height="40" rx="14" fill="var(--soft)" stroke="currentColor" stroke-width="2"/><text x="235" y="117" text-anchor="middle" font-size="12" font-weight="800" fill="currentColor">Fe-S</text>
+      <circle cx="315" cy="112" r="20" fill="var(--soft)" stroke="currentColor" stroke-width="2"/><text x="315" y="117" text-anchor="middle" font-size="12" font-weight="800" fill="currentColor">Q</text>
+      <rect x="360" y="70" width="90" height="84" rx="16" fill="var(--soft)" stroke="currentColor" stroke-width="2"/><text x="405" y="110" text-anchor="middle" font-size="12" font-weight="800" fill="currentColor">Cit b₅₅₆</text>
+      <ellipse cx="540" cy="180" rx="68" ry="32" fill="var(--e-soft)" stroke="var(--e)" stroke-width="2.5"/><text x="540" y="176" text-anchor="middle" font-size="12" font-weight="800" fill="var(--e)">Nitrato</text><text x="540" y="192" text-anchor="middle" font-size="12" font-weight="800" fill="var(--e)">reductasa</text>
+      <rect x="10" y="176" width="100" height="28" rx="14" fill="var(--nadh)"/><text x="60" y="195" text-anchor="middle" font-size="12" font-weight="800" fill="var(--paper)">NADH + H⁺</text>
+      <path d="M90 176 C100 164 108 158 112 156" fill="none" stroke="var(--e)" stroke-width="2.5" marker-end="url(#ar17)"/>
+      <line x1="177" y1="112" x2="196" y2="112" stroke="var(--e)" stroke-width="2.5" marker-end="url(#ar17)"/>
+      <line x1="272" y1="112" x2="291" y2="112" stroke="var(--e)" stroke-width="2.5" marker-end="url(#ar17)"/>
+      <line x1="337" y1="112" x2="356" y2="112" stroke="var(--e)" stroke-width="2.5" marker-end="url(#ar17)"/>
+      <path d="M430 156 C450 175 460 180 468 180" fill="none" stroke="var(--e)" stroke-width="2.5" marker-end="url(#ar17)"/>
+      <text x="245" y="170" font-size="12" font-weight="800" fill="var(--e)">2 e⁻ →</text>
+      <line x1="135" y1="68" x2="135" y2="40" stroke="var(--h)" stroke-width="2.5" marker-end="url(#ar17h)"/><text x="145" y="38" font-size="12" font-weight="800" fill="var(--h)">2 H⁺</text>
+      <line x1="315" y1="90" x2="315" y2="40" stroke="var(--h)" stroke-width="2.5" marker-end="url(#ar17h)"/><text x="325" y="38" font-size="12" font-weight="800" fill="var(--h)">2 H⁺</text>
+      <rect x="630" y="150" width="104" height="26" rx="13" fill="var(--e-soft)" stroke="var(--e)"/><text x="682" y="168" text-anchor="middle" font-size="12" font-weight="800" fill="var(--e)">NO₃⁻ + 2H⁺</text>
+      <rect x="630" y="196" width="104" height="26" rx="13" fill="var(--o2-soft)" stroke="var(--o2)"/><text x="682" y="214" text-anchor="middle" font-size="12" font-weight="800" fill="var(--o2)">NO₂⁻ + H₂O</text>
+      <path d="M630 163 C615 163 610 170 608 175" fill="none" stroke="currentColor" stroke-width="1.5"/>
+      <path d="M608 188 C610 200 615 209 626 209" fill="none" stroke="currentColor" stroke-width="1.5" marker-end="url(#ar17k)"/>
+    </svg></div>
+    <figcaption>Es la misma lógica que la cadena aeróbica (NADH → flavoproteína → Fe-S → quinona → citocromo), pero el último eslabón es la <strong>nitrato reductasa</strong> en lugar de la citocromo oxidasa, y el que recibe los electrones es el <strong>nitrato (NO₃⁻)</strong>, que se reduce a <strong>nitrito (NO₂⁻)</strong>. Igual se bombean H⁺, así que igual hay ATP por quimiósmosis.</figcaption>
+  </figure>
+</section>
+
+<!-- 18 -->
+<section class="ch" id="s18">
+  <div class="chhead"><span class="num">18</span><h2>Respiración vs fermentación: la comparación completa</h2></div>
+  <p>La diapositiva 55 pone las dos rutas lado a lado. La clave: <strong>¿de dónde viene el aceptor final de electrones?</strong></p>
+  <div class="two">
+    <div class="box" style="background:var(--o2-soft)"><span class="k" style="color:var(--o2)">Respiración (aeróbica o anaeróbica)</span><p>El aceptor final de electrones <strong>proviene del exterior de la célula</strong> (O₂, nitrato, sulfato…).</p></div>
+    <div class="box" style="background:var(--e-soft)"><span class="k" style="color:var(--e)">Fermentación</span><p>El aceptor final es <strong>una molécula formada en la célula</strong>: el piruvato o un derivado. Los electrones del NADH y el propio piruvato terminan en los <strong>productos finales</strong> de la fermentación.</p></div>
+  </div>
+  <figure>
+    <div class="sv"><svg viewBox="0 0 760 400" role="img" aria-label="Las tres rutas lado a lado desde la glucólisis: la fermentación devuelve los electrones al piruvato y rinde 2 ATP; la respiración anaeróbica pasa por Krebs y cadena hasta un aceptor externo distinto de O2 y rinde un intermedio; la aeróbica pasa por Krebs y cadena hasta O2 y rinde 38 ATP">
+      <defs><marker id="ar18" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="currentColor"/></marker><marker id="ar18e" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--e)"/></marker></defs>
+      <rect x="250" y="10" width="260" height="60" rx="12" fill="var(--acc-soft)" stroke="var(--acc)" stroke-width="2"/>
+      <text x="380" y="34" text-anchor="middle" font-size="14" font-weight="800" fill="var(--acc)">Glucosa → GLUCÓLISIS → 2 piruvato</text>
+      <text x="380" y="56" text-anchor="middle" font-size="12" fill="currentColor"><tspan fill="var(--atp)" font-weight="800">+2 ATP</tspan> · <tspan fill="var(--nadh)" font-weight="800">+2 NADH</tspan> · común a las tres</text>
+      <path d="M290 72 C220 95 150 95 130 112" fill="none" stroke="currentColor" stroke-width="2" marker-end="url(#ar18)"/>
+      <line x1="380" y1="72" x2="380" y2="110" stroke="currentColor" stroke-width="2" marker-end="url(#ar18)"/>
+      <path d="M470 72 C540 95 610 95 630 112" fill="none" stroke="currentColor" stroke-width="2" marker-end="url(#ar18)"/>
+      <g>
+        <rect x="10" y="116" width="240" height="274" rx="14" fill="var(--e-soft)" stroke="var(--e)" stroke-width="2"/>
+        <text x="130" y="142" text-anchor="middle" font-size="15" font-weight="800" fill="var(--e)">FERMENTACIÓN</text>
+        <text x="130" y="170" text-anchor="middle" font-size="12" fill="currentColor">sin Krebs · sin cadena</text>
+        <rect x="45" y="186" width="170" height="30" rx="8" fill="var(--paper)" stroke="currentColor"/><text x="130" y="206" text-anchor="middle" font-size="12" font-weight="700" fill="currentColor">piruvato (o derivado)</text>
+        <text x="130" y="238" text-anchor="middle" font-size="12" fill="var(--nadh)" font-weight="700">NADH le devuelve los e⁻</text>
+        <line x1="130" y1="244" x2="130" y2="266" stroke="var(--e)" stroke-width="2" marker-end="url(#ar18e)"/>
+        <rect x="35" y="270" width="190" height="30" rx="8" fill="var(--paper)" stroke="currentColor"/><text x="130" y="290" text-anchor="middle" font-size="12" font-weight="700" fill="currentColor">lactato, etanol + CO₂…</text>
+        <text x="130" y="322" text-anchor="middle" font-size="12" fill="currentColor">aceptor: <tspan font-weight="800">INTERNO</tspan></text>
+        <text x="130" y="344" text-anchor="middle" font-size="12" fill="currentColor">ATP solo por sustrato</text>
+        <text x="130" y="374" text-anchor="middle" font-size="18" font-weight="800" fill="var(--atp)">2 ATP</text>
+      </g>
+      <g>
+        <rect x="260" y="116" width="240" height="274" rx="14" fill="var(--nadh-soft)" stroke="var(--nadh)" stroke-width="2"/>
+        <text x="380" y="142" text-anchor="middle" font-size="15" font-weight="800" fill="var(--nadh)">RESP. ANAERÓBICA</text>
+        <text x="380" y="170" text-anchor="middle" font-size="12" fill="currentColor">Krebs · cadena de e⁻</text>
+        <rect x="295" y="186" width="170" height="30" rx="8" fill="var(--paper)" stroke="currentColor"/><text x="380" y="206" text-anchor="middle" font-size="12" font-weight="700" fill="currentColor">NADH, FADH₂ → cadena</text>
+        <text x="380" y="238" text-anchor="middle" font-size="12" fill="var(--h)" font-weight="700">bombea H⁺ → ATP sintasa</text>
+        <line x1="380" y1="244" x2="380" y2="266" stroke="var(--e)" stroke-width="2" marker-end="url(#ar18e)"/>
+        <rect x="275" y="270" width="210" height="30" rx="8" fill="var(--paper)" stroke="currentColor"/><text x="380" y="290" text-anchor="middle" font-size="12" font-weight="700" fill="currentColor">NO₃⁻, SO₄²⁻, fumarato, CO₂…</text>
+        <text x="380" y="322" text-anchor="middle" font-size="12" fill="currentColor">aceptor: <tspan font-weight="800">EXTERNO ≠ O₂</tspan></text>
+        <text x="380" y="344" text-anchor="middle" font-size="12" fill="currentColor">sustrato + fosf. oxidativa</text>
+        <text x="380" y="374" text-anchor="middle" font-size="16" font-weight="800" fill="var(--atp)">intermedio (&lt; 38)</text>
+      </g>
+      <g>
+        <rect x="510" y="116" width="240" height="274" rx="14" fill="var(--o2-soft)" stroke="var(--o2)" stroke-width="2"/>
+        <text x="630" y="142" text-anchor="middle" font-size="15" font-weight="800" fill="var(--o2)">RESP. AERÓBICA</text>
+        <text x="630" y="170" text-anchor="middle" font-size="12" fill="currentColor">Krebs · cadena de e⁻</text>
+        <rect x="545" y="186" width="170" height="30" rx="8" fill="var(--paper)" stroke="currentColor"/><text x="630" y="206" text-anchor="middle" font-size="12" font-weight="700" fill="currentColor">NADH, FADH₂ → cadena</text>
+        <text x="630" y="238" text-anchor="middle" font-size="12" fill="var(--h)" font-weight="700">bombea H⁺ → ATP sintasa</text>
+        <line x1="630" y1="244" x2="630" y2="266" stroke="var(--e)" stroke-width="2" marker-end="url(#ar18e)"/>
+        <rect x="545" y="270" width="170" height="30" rx="8" fill="var(--paper)" stroke="currentColor"/><text x="630" y="290" text-anchor="middle" font-size="12" font-weight="700" fill="currentColor">O₂ → H₂O</text>
+        <text x="630" y="322" text-anchor="middle" font-size="12" fill="currentColor">aceptor: <tspan font-weight="800">EXTERNO = O₂</tspan></text>
+        <text x="630" y="344" text-anchor="middle" font-size="12" fill="currentColor">sustrato + fosf. oxidativa</text>
+        <text x="630" y="374" text-anchor="middle" font-size="18" font-weight="800" fill="var(--atp)">38 ATP</text>
+      </g>
+    </svg></div>
+    <figcaption>Las tres empiezan igual. Lo que cambia es adónde van los electrones del NADH: de vuelta al piruvato (fermentación), a un aceptor externo que no es O₂ (anaeróbica) o al O₂ (aeróbica).</figcaption>
+  </figure>
+
+  <h3>Lo que dice la diapositiva 55, paso por paso</h3>
+  <ol class="l">
+    <li><strong>Glucólisis</strong> (las dos rutas): produce ATP y reduce NAD⁺ a NADH mientras oxida la glucosa a ácido pirúvico. En la respiración, el piruvato se convierte en <strong>acetil-CoA</strong>, el primer reactante del Krebs.</li>
+    <li><strong>Krebs</strong> (solo respiración): produce algo de ATP por fosforilación a nivel de sustrato, reduce NAD⁺ y FAD y libera CO₂. Los transportadores de la glucólisis y del Krebs <strong>ceden sus electrones a la cadena</strong>.</li>
+    <li><strong>Cadena de electrones</strong> (solo respiración): usa la energía de los electrones para producir una <strong>gran cantidad de ATP</strong> por fosforilación oxidativa.</li>
+  </ol>
+  <p>En la <strong>fermentación</strong>, en cambio, el piruvato y los electrones que trae el NADH desde la glucólisis se incorporan en los <strong>productos finales</strong> (lactato, etanol…).</p>
+
+  <h3>Tabla comparativa de las tres</h3>
+  <div class="tbl"><table>
+    <tr><th></th><th>Fermentación</th><th>Respiración anaeróbica</th><th>Respiración aeróbica</th></tr>
+    <tr><td>Aceptor final de e⁻</td><td>Molécula orgánica formada en la célula (piruvato o derivado)</td><td>Compuesto externo distinto del O₂: NO₃⁻, SO₄²⁻, fumarato, CO₂, Fe³⁺</td><td>O₂</td></tr>
+    <tr><td>¿De dónde viene el aceptor?</td><td><strong>Interno</strong></td><td><strong>Externo</strong></td><td><strong>Externo</strong></td></tr>
+    <tr><td>Cadena de transporte de e⁻</td><td>No</td><td>Sí</td><td>Sí</td></tr>
+    <tr><td>Ciclo de Krebs</td><td>No</td><td>Sí, en general</td><td>Sí</td></tr>
+    <tr><td>Cómo se hace el ATP</td><td>Solo a nivel de sustrato</td><td>Sustrato + fosforilación oxidativa</td><td>Sustrato + fosforilación oxidativa</td></tr>
+    <tr><td>Rendimiento de ATP</td><td>2 (heteroláctica 1)</td><td>Intermedio: menos que la aeróbica, más que la fermentación</td><td>38</td></tr>
+    <tr><td>¿Necesita O₂?</td><td>No</td><td>No (ocurre sin O₂)</td><td>Sí</td></tr>
+    <tr><td>Producto reducido</td><td>Lactato, etanol, ácidos, butanodiol</td><td>NO₂⁻, N₂, H₂S, succinato, CH₄, Fe²⁺</td><td>H₂O</td></tr>
+    <tr><td>Ejemplos</td><td><em>Lactobacillus</em>, levaduras, <em>E. coli</em> sin O₂ ni nitrato</td><td><em>Pseudomonas</em>, <em>Bacillus</em>, <em>Desulfovibrio</em>, metanógenas, <em>E. coli</em> con nitrato</td><td><em>Pseudomonas</em>, <em>E. coli</em> con O₂, <em>Mycobacterium</em></td></tr>
+  </table></div>
+  <div class="box key"><span class="k">Resumen en una frase</span><p>Las dos respiraciones se parecen entre sí (Krebs, cadena, aceptor externo) y solo cambian en el aceptor. La fermentación es la distinta: no tiene cadena y el aceptor sale de la propia célula.</p></div>
+</section>
+
+<!-- 19 -->
+<section class="ch" id="s19">
+  <div class="chhead"><span class="num">19</span><h2>Trampas de parcial</h2></div>
   <div class="two">
     <div class="box trap"><span class="k">Error 1</span><p>"La fermentación produce ATP al reducir el piruvato." <strong>Falso.</strong> Todo el ATP sale de la glucólisis. La reducción del piruvato solo <strong>regenera NAD⁺</strong>.</p></div>
     <div class="box trap"><span class="k">Error 2</span><p>"Respiración = con oxígeno." <strong>Falso.</strong> Respiración = cadena + aceptor externo. Puede ser anaeróbica.</p></div>
@@ -867,12 +1023,14 @@ footer{color:var(--muted);font-size:.85rem;border-top:1px solid var(--line);padd
     <div class="box trap"><span class="k">Error 8</span><p>"La difusión facilitada gasta energía porque usa proteína." <strong>Falso.</strong> Usa proteína (permeasa) pero es pasiva: va a favor del gradiente.</p></div>
     <div class="box trap"><span class="k">Error 9</span><p>"El Krebs gira una vez por glucosa." Gira <strong>dos veces</strong>: una glucosa da 2 acetil-CoA.</p></div>
     <div class="box trap"><span class="k">Error 10</span><p>"El O₂ se convierte en CO₂." <strong>Falso.</strong> El O₂ se convierte en <strong>H₂O</strong>. El CO₂ sale del carbono de la glucosa.</p></div>
+    <div class="box trap"><span class="k">Error 11</span><p>"La respiración anaeróbica rinde lo mismo que la aeróbica." <strong>Falso.</strong> Rinde <strong>menos</strong>: sus aceptores tienen un potencial menos positivo que el O₂, así que los electrones caen menos. Pero rinde <strong>más que la fermentación</strong>.</p></div>
+    <div class="box trap"><span class="k">Error 12</span><p>"El fumarato es un aceptor orgánico, entonces eso es fermentación." <strong>Falso.</strong> Lo que define a la fermentación es que el aceptor sale del propio sustrato, adentro, y no hay cadena. El fumarato se toma de afuera y recibe los electrones por una cadena: es <strong>respiración anaeróbica</strong>.</p></div>
   </div>
 </section>
 
-<!-- 18 -->
-<section class="ch" id="s18">
-  <div class="chhead"><span class="num">18</span><h2>Autoevaluación con respuestas</h2></div>
+<!-- 20 -->
+<section class="ch" id="s20">
+  <div class="chhead"><span class="num">20</span><h2>Autoevaluación con respuestas</h2></div>
   <p class="noprint" style="color:var(--muted)">Pensá la respuesta y después tocá la pregunta para ver si acertaste.</p>
   <div class="check">
     <span class="k">Conceptos</span>
@@ -903,11 +1061,20 @@ footer{color:var(--muted);font-size:.85rem;border-top:1px solid var(--line);padd
     <details class="q"><summary>19. ¿Cómo actúan el CO y el cianuro?</summary><div class="a">El CO se une a la citocromo oxidasa terminal y bloquea la entrada del O₂. El cianuro (y la azida) se unen al hierro del citocromo e impiden la transferencia de electrones.</div></details>
     <details class="q"><summary>20. ¿Por qué el FADH₂ rinde 2 ATP y el NADH 3?</summary><div class="a">Porque el FADH₂ entra a la cadena más abajo (a nivel de las quinonas), así que sus electrones caen menos y se bombean menos H⁺.</div></details>
   </div>
+  <div class="check">
+    <span class="k">Respiración anaeróbica y comparación</span>
+    <details class="q"><summary>21. Definí respiración anaeróbica.</summary><div class="a">Proceso catabólico en el que el aceptor final de electrones <strong>no es el oxígeno molecular</strong>. Tiene cadena de transporte y hace fosforilación oxidativa, como la aeróbica.</div></details>
+    <details class="q"><summary>22. Nombrá 4 aceptores alternativos al O₂, con su producto y un ejemplo de microorganismo.</summary><div class="a">NO₃⁻ → NO₂⁻ → N₂ (<em>Pseudomonas</em>, <em>Bacillus</em>) · NO₃⁻ → NO₂⁻ (enterobacterias) · SO₄²⁻ → S⁰ → H₂S (<em>Desulfovibrio</em>, <em>Desulfotomaculum</em>) · fumarato → succinato (enterobacterias) · CO₂ → CH₄ (arqueas metanogénicas) · Fe³⁺ → Fe²⁺ (<em>Shewanella</em>, <em>Geobacter</em>).</div></details>
+    <details class="q"><summary>23. ¿Por qué la respiración anaeróbica rinde menos ATP que la aeróbica?</summary><div class="a">Porque los aceptores alternativos tienen un potencial de reducción <strong>menos positivo</strong> que el O₂ (+0,82 V). La caída de los electrones desde el NADH es menor, se bombean menos H⁺ y se fabrica menos ATP.</div></details>
+    <details class="q"><summary>24. ¿Qué hace <em>E. coli</em> si no hay O₂ pero sí nitrato? ¿Y si no hay ninguno?</summary><div class="a">Con nitrato hace <strong>respiración anaeróbica</strong>: su cadena termina en la <strong>nitrato reductasa</strong>, que reduce NO₃⁻ a NO₂⁻. Sin O₂ ni nitrato, <strong>fermenta</strong> (ácido-mixta). Es anaerobia facultativa.</div></details>
+    <details class="q"><summary>25. Según la diapositiva 55, ¿cuál es la diferencia clave entre respiración y fermentación respecto del aceptor final?</summary><div class="a">En la <strong>respiración</strong> el aceptor final <strong>proviene del exterior de la célula</strong>. En la <strong>fermentación</strong> es <strong>una molécula formada en la célula</strong> (piruvato o derivado), y el piruvato y los electrones del NADH quedan en los productos finales.</div></details>
+    <details class="q"><summary>26. Ordená de mayor a menor rendimiento de ATP: fermentación, respiración aeróbica, respiración anaeróbica.</summary><div class="a">Respiración aeróbica (38) &gt; respiración anaeróbica (intermedio) &gt; fermentación (2).</div></details>
+  </div>
 </section>
 
-<!-- 19 -->
-<section class="ch" id="s19">
-  <div class="chhead"><span class="num">19</span><h2>Hoja de repaso final</h2></div>
+<!-- 21 -->
+<section class="ch" id="s21">
+  <div class="chhead"><span class="num">21</span><h2>Hoja de repaso final</h2></div>
   <p>Todo lo esencial en una página, para la noche anterior o el viaje al parcial.</p>
   <div class="cheat">
     <div class="card"><h4>Metabolismo</h4><p>Catabolismo rompe y libera energía. Anabolismo construye y consume. Las enzimas bajan la energía de activación.</p></div>
@@ -922,8 +1089,10 @@ footer{color:var(--muted);font-size:.85rem;border-top:1px solid var(--line);padd
     <div class="card"><h4>Krebs por vuelta</h4><p>2 CO₂ + 3 NADH + 1 FADH₂ + 1 GTP. Por glucosa, el doble.</p></div>
     <div class="card"><h4>Cadena</h4><p>NADH → flavo → Fe-S → quinonas → citocromos → O₂. Bombea H⁺ y la ATP sintasa hace ATP. En procariotas, en la membrana plasmática.</p></div>
     <div class="card"><h4>Inhibidores</h4><p>CO: citocromo oxidasa (bloquea el O₂). CN⁻ y azida: Fe del citocromo.</p></div>
+    <div class="card"><h4>Respiración anaeróbica</h4><p>Aceptor final ≠ O₂. NO₃⁻ → NO₂⁻/N₂ (<em>Pseudomonas</em>, <em>Bacillus</em>, enterobacterias), SO₄²⁻ → H₂S (<em>Desulfovibrio</em>), fumarato → succinato, CO₂ → CH₄ (metanógenas), Fe³⁺ → Fe²⁺ (<em>Geobacter</em>). Rinde menos que la aeróbica.</p></div>
+    <div class="card"><h4>Respiración vs fermentación</h4><p>Respiración: aceptor EXTERNO + cadena. Fermentación: aceptor INTERNO (del sustrato), sin cadena. ATP: aeróbica 38 &gt; anaeróbica &gt; fermentación 2.</p></div>
   </div>
 </section>
 
-<footer>Apunte basado en la clase teórica 4 "Nutrición y metabolismo microbiano" (diapositivas 1–52), Microbiología General, UADE 2026. Los valores de ΔG y potenciales son los de la bibliografía de la clase (Brock); las posiciones en la torre son aproximadas.</footer>
+<footer>Apunte basado en la clase teórica 4 "Nutrición y metabolismo microbiano" (diapositivas 1–55), Microbiología General, UADE 2026. Los valores de ΔG y potenciales son los de la bibliografía de la clase (Brock); las posiciones en la torre son aproximadas.</footer>
 </main>

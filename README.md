@@ -13,7 +13,7 @@ Texto extraído de las diapositivas (las diapositivas que son solo imagen quedan
 | 1 | Grupos microbianos – Procariotas – Bacterias | `teoricos/clase_1.txt` | Todo (70 diap.) |
 | 2 | Crecimiento microbiano: requerimientos nutricionales y ambientales | `teoricos/clase_2.txt` | Todo (72 diap.) |
 | 3 | Control del crecimiento microbiano | `teoricos/clase_3.txt` | Todo (59 diap.) |
-| 4 | Nutrición y metabolismo microbiano | `teoricos/clase_4.txt` | **Solo diap. 1–52** (hasta inhibidores de la cadena respiratoria). Desde la 53, respiración anaerobia en adelante, **no se vio** |
+| 4 | Nutrición y metabolismo microbiano | `teoricos/clase_4.txt` | **Solo diap. 1–55** (hasta la comparación respiración vs fermentación, incluye respiración anaeróbica). Desde la 56 **no se vio** |
 
 ## Trabajos prácticos
 
@@ -37,4 +37,4 @@ Texto extraído de las diapositivas (las diapositivas que son solo imagen quedan
 
 ## Web de estudio
 
-`web/index.html`: página interactiva para el 1er parcial (clases 1–4, con la 4 hasta la diapositiva 52; TPs 1–3; ejercicios resueltos; autoevaluación; flashcards).
+`web/index.html`: página interactiva para el 1er parcial (clases 1–4, con la 4 hasta la diapositiva 55; TPs 1–3; ejercicios resueltos; autoevaluación; flashcards).

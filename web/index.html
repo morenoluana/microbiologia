@@ -281,7 +281,7 @@ footer{border-top:1px solid var(--line);padding-block:22px;color:var(--muted);fo
       <p class="lead">Las 4 clases teóricas explicadas, los 3 TPs, todos los ejercicios de la profe resueltos paso a paso, una autoevaluación con corrección al instante y flashcards para repasar.</p>
       <div class="count" id="countdown">
         <span class="n" id="cd-n">–</span>
-        <div><strong id="cd-t">para el 1er parcial</strong><div class="small muted">Jueves 24/9 a las <strong>7:45</strong> · Clases 1 a 4 (la 4 hasta la diapositiva 52) + TPs 1 a 3</div></div>
+        <div><strong id="cd-t">para el 1er parcial</strong><div class="small muted">Jueves 24/9 a las <strong>7:45</strong> · Clases 1 a 4 (la 4 hasta la diapositiva 55) + TPs 1 a 3</div></div>
       </div>
     </div>
     <div class="dishwrap">
@@ -294,7 +294,7 @@ footer{border-top:1px solid var(--line);padding-block:22px;color:var(--muted);fo
     <a class="ch t-c1" href="#clase1"><span class="blob"></span><span class="k">Clase 1</span><h3>Procariotas y bacterias</h3><p>Archaea vs Bacteria, morfología, pared Gram+ / Gram−, tinciones, estructuras y endosporas.</p></a>
     <a class="ch t-c2" href="#clase2"><span class="blob"></span><span class="k">Clase 2</span><h3>Crecimiento microbiano</h3><p>Fisión binaria, tiempo de generación, curva de crecimiento, nutrientes, temperatura, pH, Aw y O₂.</p></a>
     <a class="ch t-c3" href="#clase3"><span class="blob"></span><span class="k">Clase 3</span><h3>Control del crecimiento</h3><p>Cinética de muerte, valores D y z, autoclave, calor seco, radiaciones, filtración y químicos.</p></a>
-    <a class="ch t-c4" href="#clase4"><span class="blob"></span><span class="k">Clase 4 · hasta diap. 52</span><h3>Nutrición y metabolismo</h3><p>Redox, ATP, transporte, glucólisis, fermentaciones, respiración aeróbica, cadena de electrones.</p></a>
+    <a class="ch t-c4" href="#clase4"><span class="blob"></span><span class="k">Clase 4 · hasta diap. 55</span><h3>Nutrición y metabolismo</h3><p>Redox, ATP, transporte, glucólisis, fermentaciones, respiración aeróbica, cadena de electrones.</p></a>
     <a class="ch t-tp" href="#tps"><span class="blob"></span><span class="k">Laboratorio</span><h3>TP 1 · 2 · 3</h3><p>Medios y esterilización, aire y superficies, recuento en placa y NMP, siembras, Gram y esporas.</p></a>
     <a class="ch t-c3" href="#ejercicios"><span class="blob"></span><span class="k">Práctica</span><h3>Ejercicios resueltos</h3><p>Crecimiento, recuento de UFC, medios de cultivo, control y las autoevaluaciones de la profe.</p></a>
     <a class="ch t-c2" href="#quiz"><span class="blob"></span><span class="k">Examen</span><h3>Autoevaluación</h3><p>Preguntas de opción múltiple y verdadero/falso por clase, con explicación de cada respuesta.</p><div class="progressbar"><i id="home-quiz-bar" style="width:0%"></i></div><span class="small muted" id="home-quiz-txt">Todavía no hiciste ninguna ronda</span></a>
@@ -837,8 +837,8 @@ footer{border-top:1px solid var(--line);padding-block:22px;color:var(--muted);fo
     <span class="eyebrow">Clase 4 · Nutrición y metabolismo</span>
     <h2>Metabolismo microbiano</h2>
     <p class="lead">Cómo obtienen energía las bacterias: reacciones redox, ATP, transporte de nutrientes, glucólisis, fermentaciones y respiración aeróbica hasta la cadena de electrones.</p>
-    <div class="scope"><strong>Qué entra al parcial: diapositivas 1 a 52.</strong><span class="small">Llega hasta "Inhibidores de la cadena respiratoria". Desde la diapositiva 53 (respiración anaeróbica en detalle, quimiolitotrofía, fotosíntesis y anabolismo) no se vio en clase y no está en esta página.</span></div>
-    <div class="toc"><a href="#c4-gen">Generalidades</a><a href="#c4-redox">Redox</a><a href="#c4-atp">ATP</a><a href="#c4-trans">Transporte</a><a href="#c4-ruta">Glucosa paso a paso</a><a href="#c4-ferm">Fermentaciones</a><a href="#c4-resp">Respiración</a><a href="#c4-cte">Cadena de e⁻</a></div>
+    <div class="scope"><strong>Qué entra al parcial: diapositivas 1 a 55.</strong><span class="small">Llega hasta la comparación "Respiración / Fermentación" e incluye la respiración anaeróbica. Lo que sigue (digestión extracelular, quimiolitotrofía, fotosíntesis y anabolismo) no se vio. <a href="https://claude.ai/artifact/4FyNAeFLzG2UNe1w8JM6KD">Apunte completo de esta clase →</a></span></div>
+    <div class="toc"><a href="#c4-gen">Generalidades</a><a href="#c4-redox">Redox</a><a href="#c4-atp">ATP</a><a href="#c4-trans">Transporte</a><a href="#c4-ruta">Glucosa paso a paso</a><a href="#c4-ferm">Fermentaciones</a><a href="#c4-resp">Respiración</a><a href="#c4-cte">Cadena de e⁻</a><a href="#c4-anae">Resp. anaeróbica</a><a href="#c4-comp">Comparación</a></div>
   </div>
 
   <section class="topic panel" id="c4-gen">
@@ -981,6 +981,39 @@ footer{border-top:1px solid var(--line);padding-block:22px;color:var(--muted);fo
         <button class="btn ghost small" id="order-reset" style="align-self:flex-start">Mezclar de nuevo</button>
       </div>
     </div>
+  </section>
+
+  <section class="topic panel" id="c4-anae">
+    <h3>Respiración anaeróbica</h3>
+    <p>Proceso catabólico en el que el <strong>aceptor final de electrones NO es el oxígeno molecular</strong>. Tiene <strong>cadena de transporte</strong> y hace <strong>fosforilación oxidativa</strong> como la aeróbica; solo cambia el último aceptor, que se toma del exterior.</p>
+    <div class="tbl"><table>
+      <tr><th>Aceptor → producto reducido</th><th>Procariotas (ejemplos)</th></tr>
+      <tr><td class="mono">NO₃⁻ → NO₂⁻ → N₂</td><td><em>Pseudomonas</em>, <em>Bacillus</em> (desnitrificación)</td></tr>
+      <tr><td class="mono">NO₃⁻ → NO₂⁻</td><td>Enterobacterias</td></tr>
+      <tr><td class="mono">SO₄²⁻ → S⁰ → SH₂</td><td>Sulfatorreductoras (<em>Desulfovibrio</em>, <em>Desulfotomaculum</em>)</td></tr>
+      <tr><td class="mono">Fumarato → succinato</td><td>Enterobacterias</td></tr>
+      <tr><td class="mono">CO₂ → CH₄</td><td>Arqueas metanogénicas</td></tr>
+      <tr><td class="mono">Fe³⁺ → Fe²⁺</td><td><em>Shewanella</em>, <em>Geobacter</em></td></tr>
+    </table></div>
+    <div class="grid g2">
+      <div class="prose"><h4>¿Por qué rinde menos que la aeróbica?</h4><p>Todos estos aceptores tienen un potencial de reducción <strong>menos positivo</strong> que el O₂ (+0,82 V): NO₃⁻/NO₂⁻ +0,42 · fumarato/succinato +0,03 · SO₄²⁻/H₂S −0,22. Desde el NADH (−0,32 V) los electrones caen menos, se bombean menos H⁺ y se hace menos ATP. Igual rinde <strong>más que la fermentación</strong>.</p></div>
+      <div class="prose"><h4>El ejemplo de <em>E. coli</em></h4><p>Sin O₂ y con nitrato, su cadena es NADH → flavoproteína → Fe-S → quinona → citocromo b₅₅₆ → <strong>nitrato reductasa</strong>, que reduce <span class="mono">NO₃⁻ + 2H⁺ → NO₂⁻ + H₂O</span>. Se bombean H⁺ igual. Sin O₂ ni nitrato, fermenta (ácido-mixta).</p></div>
+    </div>
+  </section>
+
+  <section class="topic panel" id="c4-comp">
+    <h3>Respiración vs fermentación</h3>
+    <div class="grid g2">
+      <div class="result"><strong>Respiración</strong><span>El aceptor final de electrones <strong>proviene del exterior de la célula</strong> (O₂, nitrato, sulfato…). Glucólisis → acetil-CoA → Krebs → cadena → mucho ATP por fosforilación oxidativa.</span></div>
+      <div class="result"><strong>Fermentación</strong><span>El aceptor final es <strong>una molécula formada en la célula</strong>. El piruvato y los electrones del NADH de la glucólisis se incorporan en los productos finales. Sin Krebs ni cadena.</span></div>
+    </div>
+    <div class="tbl"><table>
+      <tr><th></th><th>Fermentación</th><th>Resp. anaeróbica</th><th>Resp. aeróbica</th></tr>
+      <tr><td>Aceptor final</td><td>Interno (piruvato o derivado)</td><td>Externo ≠ O₂</td><td>O₂</td></tr>
+      <tr><td>Cadena de e⁻</td><td>No</td><td>Sí</td><td>Sí</td></tr>
+      <tr><td>ATP</td><td>Solo sustrato: 2 (hetero 1)</td><td>Sustrato + oxidativa: intermedio</td><td>Sustrato + oxidativa: 38</td></tr>
+      <tr><td>Producto reducido</td><td>Lactato, etanol, ácidos</td><td>NO₂⁻, N₂, H₂S, succinato, CH₄, Fe²⁺</td><td>H₂O</td></tr>
+    </table></div>
   </section>
 
   <div class="row"><a class="btn" href="#quiz" data-quiz="c4">Autoevaluación de la clase 4</a><a class="btn ghost" href="#flashcards" data-fc="c4">Flashcards de la clase 4</a></div>
@@ -1149,7 +1182,7 @@ footer{border-top:1px solid var(--line);padding-block:22px;color:var(--muted);fo
 </section>
 
 </main>
-<footer><div class="wrap">Hecho a partir de las clases teóricas 1–4 (la 4 hasta la diapositiva 52), los TPs 1–3 y las actividades de Microbiología General (Dra. Pamela Bernabeu, UADE 2026). El progreso se guarda solo en este navegador.</div></footer>
+<footer><div class="wrap">Hecho a partir de las clases teóricas 1–4 (la 4 hasta la diapositiva 55), los TPs 1–3 y las actividades de Microbiología General (Dra. Pamela Bernabeu, UADE 2026). El progreso se guarda solo en este navegador.</div></footer>
 
 <script>
 (function(){
@@ -1363,7 +1396,7 @@ const EX=[
   ['¿En qué se diferencia un autótrofo de un heterótrofo?','<p>En la <strong>fuente de carbono</strong>. El autótrofo usa <strong>CO₂</strong> y el heterótrofo usa <strong>compuestos orgánicos</strong>.</p>'],
   ['¿Qué tipo de microorganismo usa CO₂ como fuente de C y H₂S como fuente de electrones?','<p>Un <strong>litoautótrofo</strong>: autótrofo (CO₂) y litótrofo (dador inorgánico). Si su energía viene de <strong>oxidar el H₂S</strong>, es <strong>quimiolitoautótrofo</strong> (bacterias sulfooxidantes). Si viene de la <strong>luz</strong> y usa el H₂S solo como dador de electrones, es <strong>fotolitoautótrofo</strong> (bacterias verdes y púrpuras del azufre).</p>'],
   ['Describí las fases de la respiración aeróbica bacteriana.','<ol class="steps"><li><strong>Glucólisis</strong>: glucosa → 2 piruvato + 2 ATP + 2 NADH.</li><li><strong>Escisión del piruvato</strong> → acetil-CoA + CO₂ + NADH.</li><li><strong>Ciclo de Krebs</strong>: el acetilo se oxida a CO₂ y se generan NADH, FADH₂ y GTP (2 vueltas por glucosa).</li><li><strong>Cadena de transporte de electrones</strong> en la membrana plasmática: los electrones van hasta el O₂. Se genera la fuerza protón motriz y la ATP sintasa hace la mayor parte del ATP (<strong>fosforilación oxidativa</strong>).</li></ol>'],
-  ['¿En qué se diferencia la fermentación de la respiración anaeróbica?','<p><strong>Fermentación</strong>: sin cadena de transporte y <strong>sin aceptor final externo</strong>. El aceptor es un compuesto orgánico que sale del propio sustrato (el piruvato o un derivado). ATP solo a nivel de sustrato: 2 por glucosa. <strong>Respiración anaeróbica</strong>: <strong>tiene cadena de transporte</strong> y un <strong>aceptor final externo distinto del O₂</strong> (p. ej. nitrato, sulfato). Hace fosforilación oxidativa y rinde más que la fermentación.</p><p class="small muted">El detalle de la respiración anaeróbica (diapositiva 53 en adelante) no se vio, pero la diferencia conceptual sí está en la diapositiva de "Fermentación / Respiración".</p>'],
+  ['¿En qué se diferencia la fermentación de la respiración anaeróbica?','<p><strong>Fermentación</strong>: sin cadena de transporte y <strong>sin aceptor final externo</strong>. El aceptor es un compuesto orgánico que sale del propio sustrato (el piruvato o un derivado). ATP solo a nivel de sustrato: 2 por glucosa. <strong>Respiración anaeróbica</strong>: <strong>tiene cadena de transporte</strong> y un <strong>aceptor final externo distinto del O₂</strong> (p. ej. nitrato, sulfato). Hace fosforilación oxidativa y rinde más que la fermentación.</p><p class="small muted">Ejemplos de la clase: nitrato → nitrito o N₂ (<em>Pseudomonas</em>, <em>Bacillus</em>, enterobacterias), sulfato → H₂S (<em>Desulfovibrio</em>), CO₂ → CH₄ (metanógenas).</p>'],
   ['¿Qué productos metabólicos pueden obtenerse de una fermentación?','<p>Ácido <strong>láctico</strong> (homo y heteroláctica), <strong>etanol + CO₂</strong> (alcohólica, levaduras), <strong>ácidos mixtos</strong>: acético, fórmico, succínico, láctico, más H₂ y CO₂ (<em>E. coli</em>), y <strong>2,3-butanodiol</strong> (butilenglicólica, <em>Enterobacter</em>). Tienen interés industrial (yogur, pan, vino) y sirven para identificar microorganismos.</p>'],
   ['¿Cuál es el objetivo de una siembra por agotamiento?','<p>Obtener <strong>colonias aisladas</strong> a partir de un cultivo mixto, es decir, un <strong>cultivo puro</strong>. Cada colonia aislada viene, en teoría, de una sola célula o UFC. El inóculo se va diluyendo en cada cuadrante porque se flamea el ansa entre uno y otro.</p>'],
   ['Explicá el fundamento de la tinción de Gram.','<p>Se basa en la <strong>diferencia de pared</strong>. Cristal violeta (colorante primario) + lugol (mordiente) forman un complejo CV-I. El <strong>alcohol-acetona</strong> deshidrata el <strong>peptidoglicano grueso</strong> de las Gram+ y el complejo queda retenido: se ven <strong>violetas</strong>. En las Gram− disuelve la membrana externa y la capa fina de peptidoglicano no lo retiene: se decoloran y la <strong>safranina</strong> las tiñe de <strong>rosado</strong>.</p>'],
@@ -1490,6 +1523,13 @@ const Q=[
  ['c4','Un quimiolitótrofo obtiene energía oxidando…',['Glucosa','Compuestos inorgánicos (H₂S, NH₃, Fe²⁺)','Luz','Proteínas'],1,'Quimiorganótrofo oxida compuestos orgánicos; quimiolitótrofo, inorgánicos.'],
  ['c4','Verdadero o falso: el anabolismo libera energía.',VF,1,'Falso: el anabolismo (biosíntesis) consume energía. El catabolismo la libera.'],
  ['c4','Verdadero o falso: la respiración anaeróbica usa un aceptor final externo distinto del O₂.',VF,0,'Verdadero. Esa es la diferencia con la fermentación, que no tiene aceptor externo.'],
+ ['c4','Las bacterias sulfatorreductoras (Desulfovibrio) usan como aceptor final…',['O₂','SO₄²⁻, que reducen a H₂S','NO₃⁻','Piruvato'],1,'Hacen respiración anaeróbica: SO₄²⁻ → S⁰ → H₂S.'],
+ ['c4','Pseudomonas y Bacillus en anaerobiosis pueden reducir…',['CO₂ a CH₄','NO₃⁻ a NO₂⁻ y hasta N₂ (desnitrificación)','Fe²⁺ a Fe³⁺','Lactato a piruvato'],1,'Desnitrificación: NO₃⁻ → NO₂⁻ → N₂.'],
+ ['c4','Las arqueas metanogénicas usan como aceptor final…',['CO₂, que reducen a CH₄','O₂','Fumarato','Sulfato'],0,'CO₂ → CH₄. Son anaerobias estrictas.'],
+ ['c4','¿Por qué la respiración anaeróbica rinde menos ATP que la aeróbica?',['Porque no tiene cadena de electrones','Porque sus aceptores tienen un potencial menos positivo que el O₂: los e⁻ caen menos','Porque no hace glucólisis','Porque usa fosforilación a nivel de sustrato únicamente'],1,'Menor diferencia de potencial entre el NADH y el aceptor = menos H⁺ bombeados = menos ATP. Igual rinde más que la fermentación.'],
+ ['c4','Según la clase, en la fermentación el aceptor final de electrones es…',['Una molécula que proviene del exterior de la célula','Una molécula formada en la célula (piruvato o derivado)','Siempre el O₂','El nitrato'],1,'En la respiración, en cambio, el aceptor proviene del exterior de la célula.'],
+ ['c4','Ordená por rendimiento de ATP (mayor a menor):',['Fermentación > anaeróbica > aeróbica','Aeróbica > anaeróbica > fermentación','Anaeróbica > aeróbica > fermentación','Todas rinden igual'],1,'Aeróbica 38 > anaeróbica (intermedio) > fermentación 2.'],
+ ['c4','En E. coli respirando nitrato, la enzima final de la cadena es…',['Citocromo oxidasa','Nitrato reductasa','Catalasa','ATP sintasa'],1,'La nitrato reductasa reduce NO₃⁻ + 2H⁺ → NO₂⁻ + H₂O.'],
  // TPs
  ['tp','¿Por qué el PCA se templa a 45 °C antes de verterlo en la siembra en profundidad?',['Para que solidifique más rápido','Para no dañar ni matar a los microorganismos con agar demasiado caliente','Para esterilizarlo','Para que no se contamine'],1,'El agar se funde a ~100 °C pero sigue líquido hasta ~40 °C. A 45 °C no daña las células.'],
  ['tp','En la siembra en superficie se siembran…',['1 mL','0,1 mL extendido con espátula de Drigalsky','10 mL','Una colonia con ansa'],1,'Por eso el factor de volumen es 10.'],
@@ -1592,6 +1632,9 @@ const FC=[
  ['c4','Etapas de la respiración aeróbica','Glucólisis → piruvato a acetil-CoA → Krebs (×2) → cadena de transporte + fosforilación oxidativa.'],
  ['c4','Orden de la cadena de electrones','NADH → flavoproteínas → Fe-S → quinonas → citocromos → O₂.'],
  ['c4','Inhibidores de la cadena','CO: citocromo oxidasa terminal (bloquea al O₂). CN⁻ y azida: se unen al Fe del citocromo.'],
+ ['c4','Respiración anaeróbica','Aceptor final ≠ O₂, tomado del exterior. Tiene cadena y fosforilación oxidativa. Rinde menos que la aeróbica y más que la fermentación.'],
+ ['c4','Aceptores de la respiración anaeróbica y ejemplos','NO₃⁻ → NO₂⁻ → N₂ (<em>Pseudomonas</em>, <em>Bacillus</em>) · NO₃⁻ → NO₂⁻ (enterobacterias) · SO₄²⁻ → H₂S (<em>Desulfovibrio</em>) · fumarato → succinato · CO₂ → CH₄ (metanógenas) · Fe³⁺ → Fe²⁺ (<em>Geobacter</em>, <em>Shewanella</em>).'],
+ ['c4','Respiración vs fermentación: el aceptor','Respiración: el aceptor viene del EXTERIOR de la célula. Fermentación: es una molécula formada EN la célula (piruvato o derivado).'],
  ['c4','Quimiósmosis','Gradiente de H⁺ a través de una membrana → ATP sintasa. En procariotas, en la membrana plasmática.'],
  ['tp','Pasos para preparar un medio','Pesar → hidratar y disolver → medir pH → envasar → esterilizar → plaquear, almacenar o usar.'],
  ['tp','Controles de esterilización','Físicos (T, P) · químicos (cintas que viran) · biológicos (esporas de <em>G. stearothermophilus</em>: sin crecimiento = OK).'],
